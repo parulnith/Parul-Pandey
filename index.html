@@ -3,46 +3,225 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parul Pandey - Portfolio</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <title>Parul Pandey</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        header {
+            width: 100%;
+            background: #fff;
+            border-bottom: 1px solid #ddd;
+            padding: 10px 0;
+        }
+        header ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+        header li {
+            margin: 0 15px;
+        }
+        header a {
+            text-decoration: none;
+            color: #333;
+            font-size: 14px;
+        }
+        .profile {
+            display: flex;
+            width: 100%;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .profile-pic {
+            flex: 0 0 200px;
+            margin-right: 20px;
+        }
+        .profile-pic img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
+        .profile-info {
+            flex: 1;
+        }
+        .profile-info h1 {
+            margin: 0 0 10px 0;
+            font-size: 24px;
+        }
+        .profile-info p {
+            margin: 10px 0;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        .social-icons {
+            margin-top: 10px;
+        }
+        .social-icons a {
+            margin-right: 10px;
+            text-decoration: none;
+            color: #333;
+        }
+        .social-icons a:hover {
+            text-decoration: underline;
+        }
+        .book-section {
+            width: 100%;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+        }
+        .book-section img {
+            width: 150px;
+            margin-right: 20px;
+        }
+        .book-section p {
+            margin: 0;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        .book-section a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .book-section a:hover {
+            text-decoration: underline;
+        }
+        .sections {
+            display: flex;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+        .section {
+            flex: 1;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 10px;
+            min-width: 300px;
+        }
+        .section h2 {
+            margin-top: 0;
+            font-size: 20px;
+        }
+        .section p {
+            margin: 10px 0;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        .section a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .section a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            width: 100%;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
+    <header>
+        <ul>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="writing.html">Public Writing</a></li>
+            <li><a href="talks.html">Talks</a></li>
+            <li><a href="press.html">Press</a></li>
+            <li><a href="cv.html">CV</a></li>
+        </ul>
+    </header>
+
     <div class="container">
-        <header>
-            <div class="left-side">
-                <div class="profile">
-                    <img src="images/profile.jpg" alt="Parul Pandey" class="profile-photo">
-                    <h1>Parul Pandey</h1>
-                    <p>Ph.D. Candidate at Princeton University</p>
-                    <nav class="social-links">
-                        <a href="https://twitter.com/"><img src="images/twitter-icon.png" alt="Twitter"></a>
-                        <a href="https://linkedin.com/"><img src="images/linkedin-icon.png" alt="LinkedIn"></a>
-                        <a href="https://scholar.google.com/"><img src="images/google-scholar-icon.png" alt="Google Scholar"></a>
-                    </nav>
-                </div>
-                <div class="ai-snake-oil">
-                    <h2>AI Snake Oil</h2>
-                    <p>I co-authored the AI Snake Oil book to help distinguish between applications of AI that work and those that don't...</p>
-                    <img src="images/ai-snake-oil-book.jpg" alt="AI Snake Oil Book">
+        <div class="profile">
+            <div class="profile-pic">
+                <img src="https://example.com/profile-pic.jpg" alt="Parul Pandey">
+            </div>
+            <div class="profile-info">
+                <h1>Parul Pandey</h1>
+                <p>I am Parul and I work as a Data Scientist at H2O.ai. Previously I worked as a Machine Learning Engineer at Weights & Biases. I combine data science and developer advocacy in my work. I also like to write articles focusing on Data Science and Software development. I have also co-authored a book on Machine learning for High-Risk Applications.</p>
+                <div class="social-icons">
+                    <a href="https://twitter.com/parulpandey" target="_blank">Twitter</a>
+                    <a href="https://linkedin.com/in/parulpandey" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/parulpandey" target="_blank">GitHub</a>
                 </div>
             </div>
-            <div class="main-content">
-                <section class="about">
-                    <p>I am a computer science Ph.D. candidate at Princeton University's Center for Information Technology Policy and a co-author of AI Snake Oil. My research focuses on the societal impact of AI...</p>
-                </section>
-                <section class="reproducibility">
-                    <h2>Reproducibility</h2>
-                    <p>I have investigated and offered mitigations for the reproducibility crisis in machine-learning-based science...</p>
-                    <ul>
-                        <li><strong>REFORMS:</strong> Science Advances (2024)</li>
-                        <li><strong>Leakage and the Reproducibility:</strong> Patterns (2023)</li>
-                    </ul>
-                </section>
+        </div>
+
+        <div class="book-section">
+            <img src="https://example.com/machine-learning-book.jpg" alt="Machine Learning for High Risk Applications">
+            <p>My book on Machine Learning for High Risk Applications is now published. The book looks critically at what AI can and cannot do. We're sharing our ideas through substack with over 40,000 readers. <a href="#">Subscribe here.</a></p>
+        </div>
+
+        <div class="sections">
+            <div class="section">
+                <h2>Reproducibility</h2>
+                <p>I have investigated and offered mitigations for the reproducibility crisis in machine-learning-based science.</p>
+                <ul>
+                    <li><a href="#">REFORMS: Consensus-based Recommendations for Machine-learning-based Science. Science Advances (2024)</a></li>
+                    <li><a href="#">Leakage and the reproducibility crisis in ML-based science. Patterns (2023)</a></li>
+                    <li><a href="#">The limitations of machine learning models for predicting scientific replicability. PNAS (2023)</a></li>
+                    <li><a href="#">The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning. AIES (2022)</a></li>
+                </ul>
             </div>
-        </header>
+            <div class="section">
+                <h2>Evidence-based AI Safety</h2>
+                <p>My recent work looks at contemporary questions in AI safety through an evidence-based perspective. I have looked at the impact of open foundation models, the need for researcher access, and the futility of focusing on model-level interventions in meaningfully improving safety.</p>
+                <ul>
+                    <li><a href="#">Considerations for governing open foundation models. Science (2024)</a></li>
+                    <li><a href="#">On the Societal Impact of Open Foundation Models. ICML 2024 (Oral)</a></li>
+                    <li><a href="#">A Safe Harbor for AI Evaluation and Red Teaming. ICML 2024 (Oral)</a></li>
+                    <li><a href="#">AI safety is not a model property</a></li>
+                </ul>
+            </div>
+            <div class="section">
+                <h2>Machine Learning for High Risk Applications</h2>
+                <p>I co-authored the book on Machine Learning for High Risk Applications to help distinguish between applications of AI that work and those that don't. My blog by the same name has 40,000+ readers. I have closely investigated the harmful impacts of predictive optimization for decision making.</p>
+                <ul>
+                    <li><a href="#">Machine Learning for High Risk Applications. Princeton University Press (2024)</a></li>
+                </ul>
+            </div>
+            <div class="section">
+                <h2>Evaluating AI agents</h2>
+                <p>I have helped uncover several errors and conceptual shortcomings in AI evaluations. My recent work proposes fixes and benchmarks to improve evaluations of generative AI systems and agents.</p>
+                <ul>
+                    <li><a href="#">AI Agents That Matter</a></li>
+                    <li><a href="#">CORE-Bench: A Framework for Evaluating Generative AI Systems</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
+
+    <footer class="footer">
+        <p>&copy; 2024 Parul Pandey. All rights reserved.</p>
+    </footer>
 </body>
 </html>
