@@ -62,7 +62,7 @@
             text-decoration: underline;
         }
         .footer {
-            background: #333;
+            background: #7f878f;
             color: #fff;
             text-align: center;
             padding: 10px 0;
@@ -70,6 +70,15 @@
             position: fixed;
             bottom: 0;
             width: 100%;
+            left: 0;
+            box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+        }
+        body {
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            padding-bottom: 70px; /* To ensure content doesn't overlap the footer */
+            box-sizing: border-box;
         }
     </style>
 </head>
@@ -153,4 +162,8 @@
 
 
 </body>
+<footer class="footer">
+    <p>&copy; 2024 Parul Pandey. All rights reserved.</p>
+</footer>
+<div style="height: 50px;"></div>
 </html>
