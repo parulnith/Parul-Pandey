@@ -55,7 +55,7 @@ header a {
     padding: 40px; /* Increased padding for a wider boundary */
     margin: 30px 100px; /* Increased margin for uniform spacing */
     box-sizing: border-box;
-    text-align: center; /* Ensures text is centered horizontally */
+    text-align: left; /* Ensures text is centered horizontally */
 }
 
 /* Individual Section */
