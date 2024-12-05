@@ -1,0 +1,266 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header {
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+header ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+header li {
+    margin: 0 15px;
+}
+
+header a {
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+}
+
+/* Sections */
+.sections {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin:20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-sizing: border-box;
+}
+
+.section {
+    flex: 1;
+    min-width: 300px;
+    margin-bottom: 20px;
+}
+
+h5 {
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 10px 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Profile Section */
+.profile {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px; /* Padding inside the section */
+    margin: 20px; /* Space around the section */
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-sizing: border-box;
+}
+
+
+.profile-pic {
+    flex: 0 0 150px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.profile-pic img {
+    border-radius: 50%;
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    object-fit: cover;
+}
+
+.profile-info {
+    flex: 1;
+    min-width: 250px;
+}
+
+.profile-info h1 {
+    margin: 0 0 10px 0;
+    font-size: 22px;
+}
+
+.social-icons {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.social-icons a {
+    margin: 5px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.social-icons a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+/* Book Section */
+.book-section {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px; /* Padding inside the section */
+    margin: 20px; /* Space around the section */
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-sizing: border-box;
+}
+
+.book-image {
+    flex: 0 0 150px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.book-image img {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.book-content {
+    flex: 1;
+    min-width: 250px;
+   
+}
+
+.center-image {
+    display: flex;
+    justify-content: center; /* Centers content horizontally */
+}
+.medium-image {
+    width: 100%;
+    max-width: 400px; /* Slightly larger image */
+    height: auto;
+    border-radius: 5px; /* Add rounded corners */
+}
+.small-image {
+    width: 100%;
+    max-width: 300px; /* Limit image width */
+    height: auto;
+    border-radius: 5px; /* Add rounded corners */
+}
+
+
+/* Footer */
+.footer {
+    background: #7f878f;
+    color: #fff;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    left: 100px; /* Matches margin of sections */
+    right: 100px; /* Matches margin of sections */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+    .sections {
+        flex-direction: column;
+    }
+
+    .profile {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .profile-pic {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .profile-pic img {
+        max-width: 120px;
+    }
+
+    .book-section {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .book-image {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .book-image img {
+        max-width: 120px;
+    }
+}
+
+@media (max-width: 480px) {
+    .profile-pic img,
+    .book-image img {
+        max-width: 100px;
+    
+    }
+    .footer {
+        left: 10px;
+        right: 10px;
+    }
+}
