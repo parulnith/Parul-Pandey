@@ -1,3 +1,4 @@
+/* General Body and Container Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -14,6 +15,7 @@ body {
     flex-wrap: wrap;
 }
 
+/* Header */
 header {
     width: 100%;
     background: #fff;
@@ -42,166 +44,77 @@ header a {
 }
 
 /* Sections */
-.sections {
+.sections, .profile, .book-section {
     display: flex;
     flex-wrap: wrap;
+    align-items: center; /* Centers content vertically */
     gap: 20px;
     background: #fff;
     border: 1px solid #ddd;
     border-radius: 5px;
-    padding: 20px;
-    margin-bottom: 20px;
-    margin:20px;
-    margin-left: 100px;
-    margin-right: 100px;
+    padding: 40px; /* Increased padding for a wider boundary */
+    margin: 30px 100px; /* Increased margin for uniform spacing */
     box-sizing: border-box;
+    text-align: center; /* Ensures text is centered horizontally */
 }
 
+/* Individual Section */
 .section {
     flex: 1;
     min-width: 300px;
-    margin-bottom: 20px;
 }
 
 h5 {
     margin-top: 0;
-    font-size: 18px;
+    font-size: 20px; /* Slightly larger font size for headings */
     font-weight: bold;
 }
 
 p {
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.8; /* Increased line height for better readability */
     margin: 10px 0;
 }
 
-ul {
-    list-style: none;
-    padding: 0;
-    margin: 10px 0;
-}
-
-ul li {
-    margin: 5px 0;
-}
-
-a {
-    color: #007bff;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-/* Profile Section */
-.profile {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 20px; /* Padding inside the section */
-    margin: 20px; /* Space around the section */
-    background: #fff;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    margin-left: 100px;
-    margin-right: 100px;
-    box-sizing: border-box;
-}
-
-
-.profile-pic {
-    flex: 0 0 150px;
+/* Images */
+.profile-pic, .book-image {
+    flex: 0 0 150px; /* Fixed width for images */
     margin-right: 20px;
-    margin-bottom: 10px;
     text-align: center;
 }
 
-.profile-pic img {
-    border-radius: 50%;
+.profile-pic img, .book-image img {
+    border-radius: 50%; /* Profile image only: round */
     width: 100%;
     max-width: 150px;
     height: auto;
     object-fit: cover;
 }
 
-.profile-info {
+.profile-info, .book-content {
     flex: 1;
     min-width: 250px;
 }
 
-.profile-info h1 {
-    margin: 0 0 10px 0;
-    font-size: 22px;
-}
-
-.social-icons {
-    margin-top: 10px;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.social-icons a {
-    margin: 5px;
-    text-decoration: none;
-    color: #007bff;
-}
-
-.social-icons a:hover {
-    text-decoration: underline;
-    color: #0056b3;
-}
-
-/* Book Section */
-.book-section {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 20px; /* Padding inside the section */
-    margin: 20px; /* Space around the section */
-    background: #fff;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    margin-left: 100px;
-    margin-right: 100px;
-    box-sizing: border-box;
-}
-
-.book-image {
-    flex: 0 0 150px;
-    margin-right: 20px;
-    text-align: center;
-}
-
-.book-image img {
-    width: 100%;
-    max-width: 150px;
-    height: auto;
-    object-fit: cover;
-    border-radius: 5px;
-}
-
-.book-content {
-    flex: 1;
-    min-width: 250px;
-   
-}
-
+/* Centered and Responsive Images */
 .center-image {
     display: flex;
-    justify-content: center; /* Centers content horizontally */
-}
-.medium-image {
-    width: 100%;
-    max-width: 400px; /* Slightly larger image */
-    height: auto;
-    border-radius: 5px; /* Add rounded corners */
-}
-.small-image {
-    width: 100%;
-    max-width: 300px; /* Limit image width */
-    height: auto;
-    border-radius: 5px; /* Add rounded corners */
+    justify-content: center;
 }
 
+.medium-image {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.small-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 5px;
+}
 
 /* Footer */
 .footer {
@@ -211,7 +124,7 @@ a:hover {
     text-align: center;
     align-items: center;
     justify-content: center;
-    padding: 10px 0;
+    padding: 15px 0; /* Increased padding for a larger footer area */
     position: fixed;
     bottom: 0;
     left: 100px; /* Matches margin of sections */
@@ -219,46 +132,35 @@ a:hover {
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
 }
 
+/* Responsive Design */
 @media (max-width: 768px) {
-    .sections {
-        flex-direction: column;
-    }
-
-    .profile {
+    .sections, .profile, .book-section {
         flex-direction: column;
         text-align: center;
+        margin: 20px 20px; /* Reduced side margin for smaller screens */
+        padding: 30px; /* Adjusted padding for smaller screens */
     }
 
-    .profile-pic {
+    .profile-pic, .book-image {
         margin-right: 0;
         margin-bottom: 20px;
     }
 
-    .profile-pic img {
-        max-width: 120px;
+    .profile-pic img, .book-image img {
+        max-width: 120px; /* Smaller image size for tablets */
     }
 
-    .book-section {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .book-image {
-        margin-right: 0;
-        margin-bottom: 20px;
-    }
-
-    .book-image img {
-        max-width: 120px;
+    .footer {
+        left: 20px;
+        right: 20px;
     }
 }
 
 @media (max-width: 480px) {
-    .profile-pic img,
-    .book-image img {
-        max-width: 100px;
-    
+    .profile-pic img, .book-image img {
+        max-width: 100px; /* Smaller image size for phones */
     }
+
     .footer {
         left: 10px;
         right: 10px;
