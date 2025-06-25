@@ -3,237 +3,208 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Talks</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px 0;
-        }
-        header {
-            width: 100%;
-            background: #fff;
-            border-bottom: 1px solid #ddd;
-            padding: 10px 0;
-        }
-        header ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-        }
-        header li {
-            margin: 0 15px;
-        }
-        header a {
-            text-decoration: none;
-            color: #333;
-            font-size: 14px;
-        }
-        .section {
-            background: #fff;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            padding: 20px;
-            margin-bottom: 20px;
-        }
-        .section h2 {
-            margin-top: 0;
-            font-size: 24px;
-        }
-        .section p {
-            margin: 10px 0;
-            font-size: 16px;
-            line-height: 1.5;
-        }
-        .section a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        .section a:hover {
-            text-decoration: underline;
-        }
-        .footer {
-            background: #7f878f;
-            color: #fff;
-            text-align: center;
-            padding: 10px 0;
-            width: 100%;
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
-        }
-        body {
-            margin: 0;
-            padding: 0;
-            min-height: 100vh;
-            padding-bottom: 70px; /* To ensure content doesn't overlap the footer */
-            box-sizing: border-box;
-        }
-    </style>
+    <title>Talks - Parul Pandey</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="writings.html">Writings</a></li>
-            <li><a href="interviews.html">Interviews</a></li>
-            <li><a href="documents/Parul_Pandey_CV.pdf" target="_blank">CV</a></li>
-        </ul>
+        <div class="nav-container">
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <ul class="nav-menu" id="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="writings.html">Writings</a></li>
+                <li><a href="interviews.html">Interviews</a></li>
+            </ul>
+        </div>
     </header>
 
-    <div class="container">
-        <h1>Talks</h1>
-        <table style="width:100%; border-collapse: collapse;">
-            <thead>
-                <tr style="background-color: #f2f2f2;">
-                    <th style="border: 1px solid #ddd; padding: 8px;">Talk</th>
-                    <th style="border: 1px solid #ddd; padding: 8px;">Venue</th>
-                    <th style="border: 1px solid #ddd; padding: 8px;">Year</th>
-                </tr>
-            </thead>
-            <tbody>
+    <div class="sections">
+        <div class="section">
+            <h1>Talks</h1>
+        </div>
+    </div>
 
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://www.fiddler.ai/webinars/ai-explained-machine-learning-for-high-risk-applications">AI Explained: Machine Learning for High Risk Applications </a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">Fiddler.ai</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2023</td>
-                </tr>
+    <div class="sections">
+        <div class="section">
+            <h5>Speaking Engagements</h5>
+            <table class="writings-table">
+                <thead>
+                    <tr>
+                        <th>Talk</th>
+                        <th>Venue</th>
+                        <th>Year</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://www.fiddler.ai/webinars/ai-explained-machine-learning-for-high-risk-applications">AI Explained: Machine Learning for High Risk Applications</a></td>
+                        <td>Fiddler.ai</td>
+                        <td>2023</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://youtu.be/aHzI3IQoG30">Lightning Interview: Risk and Reward: Unraveling Machine Learning for High-Risk Applications</a></td>
+                        <td>ODSC</td>
+                        <td>2023</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://youtu.be/sk_dsrw0A3U">Kaggle Grandmaster Panel at H2O World India 2023</a></td>
+                        <td>H2O World India</td>
+                        <td>2023</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://youtu.be/8mRqooRpEEg">AI for Good: H2O Olympics Hackathon – Winner Announcement at H2O World India 2023</a></td>
+                        <td>H2O World India</td>
+                        <td>2023</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://youtu.be/NfzJ42lP5ek">Explaining models built in H2O-3</a></td>
+                        <td>Webinar</td>
+                        <td>2023</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://youtu.be/L7241CRtymg">Kaggle Grandmaster & ML for High Risk Applications #30</a></td>
+                        <td>AI Stories Podcast</td>
+                        <td>2023</td>
+                    </tr>
+                    <tr>
+                        <td>Fireside Chat at Amazon</td>
+                        <td>Amazon</td>
+                        <td>2023</td>
+                    </tr>
+                    <tr>
+                        <td>Digital Transformation with AI</td>
+                        <td>Online</td>
+                        <td>2023</td>
+                    </tr>
+                    <tr>
+                        <td>WIDS Hyderabad 2021 Conference</td>
+                        <td>WIDS Hyderabad</td>
+                        <td>2021</td>
+                    </tr>
+                    <tr>
+                        <td>Growth of Automated ML in Industry</td>
+                        <td>Online</td>
+                        <td>2021</td>
+                    </tr>
+                    <tr>
+                        <td>Career Transitioning into Data Science</td>
+                        <td>Online</td>
+                        <td>2021</td>
+                    </tr>
+                    <tr>
+                        <td>Women in Data Science Speak Series</td>
+                        <td>Online</td>
+                        <td>2021</td>
+                    </tr>
+                    <tr>
+                        <td>Workshop on Automated ML for Financial Risk Modelling</td>
+                        <td>Online</td>
+                        <td>2021</td>
+                    </tr>
+                    <tr>
+                        <td>Evolving World in AI and ML</td>
+                        <td>Online</td>
+                        <td>2021</td>
+                    </tr>
+                    <tr>
+                        <td>What can we achieve with Automated ML</td>
+                        <td>Online</td>
+                        <td>2021</td>
+                    </tr>
+                    <tr>
+                        <td>Women in Data Science, Hyderabad Workshop</td>
+                        <td>WIDS Hyderabad</td>
+                        <td>2021</td>
+                    </tr>
+                    <tr>
+                        <td>Lightning Talk at Mindhack Summit</td>
+                        <td>Mindhack Summit</td>
+                        <td>2021</td>
+                    </tr>
+                    <tr>
+                        <td>PyConf Hyderabad 2020 – 6th Dec, 2020</td>
+                        <td>PyConf Hyderabad</td>
+                        <td>2020</td>
+                    </tr>
+                    <tr>
+                        <td>Webinar for Andhra Pradesh State Skill Development Corporation (APSSDC) – 21st Nov, 2020</td>
+                        <td>APSSDC</td>
+                        <td>2020</td>
+                    </tr>
+                    <tr>
+                        <td>Data Science Conference Europe 2020 – 19th Nov, 2020</td>
+                        <td>Data Science Conference Europe</td>
+                        <td>2020</td>
+                    </tr>
+                    <tr>
+                        <td>ICFAI Business School (IBS) Hyderabad Talk – 13th Nov, 2020</td>
+                        <td>IBS Hyderabad</td>
+                        <td>2020</td>
+                    </tr>
+                    <tr>
+                        <td>Machine Learning for Everyone (ML4E), National Institute of Technology, Rourkela – 3rd Oct, 2020</td>
+                        <td>NIT Rourkela</td>
+                        <td>2020</td>
+                    </tr>
+                    <tr>
+                        <td>Kaggler's Talk – EP01: How to Use Kaggle to Create a Data Science Portfolio?</td>
+                        <td>Online</td>
+                        <td>2020</td>
+                    </tr>
+                    <tr>
+                        <td>Kaggle Days Hyderabad Meetup</td>
+                        <td>Hyderabad</td>
+                        <td>2020</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
 
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://youtu.be/aHzI3IQoG30">Lightning Interview: Risk and Reward: Unraveling Machine Learning for High-Risk Applications</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">ODSC</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2023</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://youtu.be/sk_dsrw0A3U">Kaggle Grandmaster Panel at H2O World India 2023</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">H2O World India</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2023</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://youtu.be/8mRqooRpEEg">AI for Good: H2O Olympics Hackathon – Winner Announcement at H2O World India 2023</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">H2O World India</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2023</td>
-                </tr>
-        
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://youtu.be/NfzJ42lP5ek">Explaining models built in H2O-3</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">Webinar</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2023</td>
-                </tr>
+    <div class="sections">
+        <div class="section">
+            <h5>Workshops</h5>
+            <table class="writings-table">
+                <thead>
+                    <tr>
+                        <th>Workshop</th>
+                        <th>Venue</th>
+                        <th>Year</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://www.oreilly.com/live-events/explainable-machine-learning-modelswith-interactivity/0636920061943/0636920070178/">Explainable Machine Learning Models—with Interactivity</a></td>
+                        <td>O'Reilly</td>
+                        <td>2023</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
 
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://youtu.be/L7241CRtymg">Kaggle Grandmaster & ML for High Risk Applications #30</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">AI Stories Podcast</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2023</td>
-                </tr>
+    <script>
+        const hamburger = document.getElementById('hamburger');
+        const navMenu = document.getElementById('nav-menu');
 
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;">Fireside Chat at Amazon</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">Amazon</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2023</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">Digital Transformation with AI</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">Online</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2023</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">WIDS Hyderabad 2021 Conference</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">WIDS Hyderabad</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2021</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">Growth of Automated ML in Industry</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">Online</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2021</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">Career Transitioning into Data Science</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">Online</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2021</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">Women in Data Science, Hyderabad Workshop</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">WIDS Hyderabad</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2021</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">Lightning Talk at Mindhack Summit</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">Mindhack Summit</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2021</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">PyConf Hyderabad 2020 – 6th Dec, 2020</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">PyConf Hyderabad</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2020</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">Webinar for Andhra Pradesh State Skill Development Corporation (APSSDC) – 21st Nov, 2020</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">APSSDC</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2020</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">Data Science Conference Europe 2020 – 19th Nov, 2020</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">Data Science Conference Europe</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2020</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">ICFAI Business School (IBS) Hyderabad Talk – 13th Nov, 2020</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">IBS Hyderabad</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2020</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">Machine Learning for Everyone (ML4E), National Institute of Technology, Rourkela – 3rd Oct, 2020</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">NIT Rourkela</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2020</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">Kaggler’s Talk – EP01: How to Use Kaggle to Create a Data Science Portfolio?</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">Online</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2020</td>
-                </tr>
-                <tr>
-                    <td style="border: 1px solid #ddd; padding: 8px;"><a href="#">Kaggle Days Hyderabad Meetup</a></td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">Hyderabad</td>
-                    <td style="border: 1px solid #ddd; padding: 8px;">2020</td>
-                </tr>
-            </tbody>
-        </table>
-        <h1>Workshops</h1>
+        hamburger.addEventListener('click', function() {
+            hamburger.classList.toggle('active');
+            navMenu.classList.toggle('active');
+        });
 
-        <table style="width:100%; border-collapse: collapse;">
-            <thead>
-            <tr style="background-color: #f2f2f2;">
-            <th style="border: 1px solid #ddd; padding: 8px;">Workshop</th>
-            <th style="border: 1px solid #ddd; padding: 8px;">Venue</th>
-            <th style="border: 1px solid #ddd; padding: 8px;">Year</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-            <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://www.oreilly.com/live-events/explainable-machine-learning-modelswith-interactivity/0636920061943/0636920070178/">Explainable Machine Learning Models—with Interactivity</a></td>
-            <td style="border: 1px solid #ddd; padding: 8px;">O'Reilly</td>
-            <td style="border: 1px solid #ddd; padding: 8px;">2023</td>
-            </tr>
-          
-            </tbody>
-        </table>
-     
-   
+        // Close menu when clicking on a link
+        document.querySelectorAll('.nav-menu a').forEach(link => {
+            link.addEventListener('click', () => {
+                hamburger.classList.remove('active');
+                navMenu.classList.remove('active');
+            });
+        });
+    </script>
 </body>
-<footer class="footer">
-    <p>&copy; 2024 Parul Pandey. All rights reserved.</p>
-</footer>
-<div style="height: 50px;"></div>
 </html>
