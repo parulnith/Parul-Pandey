@@ -510,3 +510,33 @@ strong {
         font-size: 15px;
     }
 }
+
+/* Hackathons page styles */
+.hackathon-card {
+    background: #ffffff;
+    border: 1px solid #e6eef6;
+    padding: 18px 20px;
+    border-radius: 10px;
+    margin: 18px 0;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.04);
+}
+.hackathon-card h3 {
+    margin: 0 0 8px 0;
+    font-size: 20px;
+}
+.hackathon-card .muted {
+    color: #6b7280;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+.recruiter-actions {
+    margin-top: 18px;
+    display: flex;
+    gap: 12px;
+}
+
+@media print {
+    .nav-container, .hamburger, .social-icons, .book-links { display: none !important; }
+    body { margin: 0; }
+    .sections { box-shadow: none; margin: 10px; padding: 10px; }
+}

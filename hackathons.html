@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hackathons - Parul Pandey</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="nav-container">
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <ul class="nav-menu" id="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="writings.html">Writings</a></li>
+                <li><a href="talks.html">Talks</a></li>
+                <li><a href="interviews.html">Interviews</a></li>
+                <li><a href="hackathons.html">Hackathons</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <div class="sections">
+        <div class="section">
+            <h1>Hackathons & Competitions</h1>
+            <p>This page lists hackathons and competitions I participate in, with a short summary, outcomes, and links to work and writeups.</p>
+
+            <div class="hackathon-card">
+                <h3>Meta Kaggle Hackathon — 2nd place</h3>
+                <p>Built an analysis pipeline to identify signals of long-term engagement on Kaggle — cohorting and feature engineering, time-aware modelling, and model interpretability. Delivered a public notebook and a concise writeup summarizing findings and recommendations.</p>
+                <p><a href="https://www.kaggle.com/competitions/meta-kaggle-hackathon/writeups/why-do-so-many-kaggle-users-go-quiet-and-what-migh" target="_blank">Demo / writeup</a></p>
+            </div>
+
+            <!-- Kaggle Notebooks & Community Events section removed -->
+
+            <div class="hackathon-card">
+                <h3>Agents-MCP-Hackathon — ReadRight</h3>
+                <p>An AI Reading Coach that helps non-native English speaking students improve reading and pronunciation through personalized stories, guided listening, recording and tailored AI feedback; new stories are generated based on performance.</p>
+                <p><a href="https://lnkd.in/gXq4TJXC" target="_blank">Demo / post</a></p>
+            </div>
+
+            <div class="hackathon-card">
+                <h3>Gemma 3n Hackathon - ASHA-G</h3>
+                <p>ASHA-G is an offline, privacy-first app that digitizes paper health forms for ASHA workers. Workers snap a photo of a form, the app detects fields and accepts Hindi voice input which is transcribed into Devanagari in real time, and the completed form is exported as a structured CSV for secure storage and integration with health systems.</p>
+                <p><a href="https://www.kaggle.com/competitions/google-gemma-3n-hackathon/writeups/ai-in-rural-india-digitizing-health-records-for-as" target="_blank">Demo / writeup</a></p>
+            </div>
+
+            <div class="hackathon-card">
+                <h3>Connected Canvas — Nano Banana / Gemini 2.5 (Flash image)</h3>
+                <p>Transforming screenshots and video-call frames into timeless family portraits: an on-device prototype using a Gemini 2.5 flash image on Nano Banana for image enhancement, background removal, color grading and stylized rendering to create keepsake portraits from casual screenshots.</p>
+                <p><a href="https://www.kaggle.com/competitions/banana/writeups/connected-canvas-from-video-calls-to-timeless-fami" target="_blank">Demo / writeup</a></p>
+            </div>
+
+            <!-- contact or print actions removed -->
+        </div>
+    </div>
+
+    <script>
+        const hamburger = document.getElementById('hamburger');
+        const navMenu = document.getElementById('nav-menu');
+
+        if (hamburger) {
+            hamburger.addEventListener('click', function() {
+                hamburger.classList.toggle('active');
+                navMenu.classList.toggle('active');
+            });
+        }
+
+    // print button removed; no action required
+    </script>
+</body>
+</html>
