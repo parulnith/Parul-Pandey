@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Parul Pandey</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Parul Pandey</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Close Look at Colab&#39;s new updates and enhancements</title>
+      <link>http://localhost:1313/writings/016-a-close-look-at-colabs-new-updates-and-enhancement/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/016-a-close-look-at-colabs-new-updates-and-enhancement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Deep dive into H2O&#39;s AutoML</title>
+      <link>http://localhost:1313/writings/024-a-deep-dive-into-h2os-automl/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/024-a-deep-dive-into-h2os-automl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Tour of 10 Useful Github Features</title>
+      <link>http://localhost:1313/writings/017-a-tour-of-10-useful-github-features/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/017-a-tour-of-10-useful-github-features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI for Everyone: Myth or Reality?</title>
+      <link>http://localhost:1313/writings/067-ai-for-everyone-myth-or-reality/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/067-ai-for-everyone-myth-or-reality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alternative Python libraries for Data Science</title>
+      <link>http://localhost:1313/writings/048-alternative-python-libraries-for-data-science/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/048-alternative-python-libraries-for-data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>An Overview of Python&#39;s Datatable package</title>
+      <link>http://localhost:1313/writings/061-an-overview-of-pythons-datatable-package/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/061-an-overview-of-pythons-datatable-package/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analysis of Emotion Data: A Dataset for Emotion Recognition Tasks</title>
+      <link>http://localhost:1313/writings/039-analysis-of-emotion-data-a-dataset-for-emotion-rec/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/039-analysis-of-emotion-data-a-dataset-for-emotion-rec/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automate your data science project structure in three easy steps</title>
+      <link>http://localhost:1313/writings/018-automate-your-data-science-project-structure-in-th/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/018-automate-your-data-science-project-structure-in-th/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automate your Model Documentation using H2O AutoDoc</title>
+      <link>http://localhost:1313/writings/023-automate-your-model-documentation-using-h2o-autodo/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/023-automate-your-model-documentation-using-h2o-autodo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Basics of BASH for Beginners</title>
+      <link>http://localhost:1313/writings/056-basics-of-bash-for-beginners/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/056-basics-of-bash-for-beginners/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benchmarks, Game Arenas, Writeups, and More: Some Exciting New Updates from Kaggle</title>
+      <link>http://localhost:1313/writings/008-benchmarks-game-arenas-writeups-and-more-some-exci/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/008-benchmarks-game-arenas-writeups-and-more-some-exci/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books I enjoyed reading in 2023!</title>
+      <link>http://localhost:1313/writings/069-books-i-enjoyed-reading-in-2023/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/069-books-i-enjoyed-reading-in-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bridging Domains: Infusing Financial, Privacy, and Software Best Practices into ML Risk Management</title>
+      <link>http://localhost:1313/writings/025-bridging-domains-infusing-financial-privacy-and-so/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/025-bridging-domains-infusing-financial-privacy-and-so/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Building a compelling Data Science Portfolio with writing</title>
+      <link>http://localhost:1313/writings/019-building-a-compelling-data-science-portfolio-with-/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/019-building-a-compelling-data-science-portfolio-with-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Building a Simple Chatbot from Scratch in Python (using NLTK)</title>
+      <link>http://localhost:1313/writings/040-building-a-simple-chatbot-from-scratch-in-python-u/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/040-building-a-simple-chatbot-from-scratch-in-python-u/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Can Recommendations from LLMs be manipulated to enhance a product&#39;s visibility?</title>
+      <link>http://localhost:1313/writings/005-can-recommendations-from-llms-be-manipulated-to-en/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/005-can-recommendations-from-llms-be-manipulated-to-en/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Creating custom image datasets for Deep Learning projects</title>
+      <link>http://localhost:1313/writings/036-creating-custom-image-datasets-for-deep-learning-p/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/036-creating-custom-image-datasets-for-deep-learning-p/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cultural Competencies for Machine Learning Risk Management</title>
+      <link>http://localhost:1313/writings/027-cultural-competencies-for-machine-learning-risk-ma/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/027-cultural-competencies-for-machine-learning-risk-ma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Demystifying Neural Networks: A Mathematical Approach (Part 1)</title>
+      <link>http://localhost:1313/writings/049-demystifying-neural-networks-a-mathematical-approa/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/049-demystifying-neural-networks-a-mathematical-approa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Demystifying Neural Networks: A Mathematical Approach (Part 2)</title>
+      <link>http://localhost:1313/writings/050-demystifying-neural-networks-a-mathematical-approa/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/050-demystifying-neural-networks-a-mathematical-approa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diving Deeper into Stock Data Analysis with Python in Excel</title>
+      <link>http://localhost:1313/writings/046-diving-deeper-into-stock-data-analysis-with-python/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/046-diving-deeper-into-stock-data-analysis-with-python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Don&#39;t just take notes — turn them into articles and share them with others</title>
+      <link>http://localhost:1313/writings/009-dont-just-take-notes-turn-them-into-articles-and-s/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/009-dont-just-take-notes-turn-them-into-articles-and-s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Effortless Fine-Tuning of Large Language Models with Open-Source H2O LLM Studio</title>
+      <link>http://localhost:1313/writings/043-effortless-fine-tuning-of-large-language-models-wi/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/043-effortless-fine-tuning-of-large-language-models-wi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elements of Functional Programming in Python</title>
+      <link>http://localhost:1313/writings/060-elements-of-functional-programming-in-python/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/060-elements-of-functional-programming-in-python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enabling notifications in your Jupyter notebooks for cell completion</title>
+      <link>http://localhost:1313/writings/054-enabling-notifications-in-your-jupyter-notebooks-f/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/054-enabling-notifications-in-your-jupyter-notebooks-f/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explain Your Machine Learning Model Predictions with GPU-Accelerated SHAP</title>
+      <link>http://localhost:1313/writings/031-explain-your-machine-learning-model-predictions-wi/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/031-explain-your-machine-learning-model-predictions-wi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explaining models built in H2O</title>
+      <link>http://localhost:1313/writings/028-explaining-models-built-in-h2o/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/028-explaining-models-built-in-h2o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exploring the Vulnerability of Language Models to Poisoning Attacks</title>
+      <link>http://localhost:1313/writings/030-exploring-the-vulnerability-of-language-models-to-/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/030-exploring-the-vulnerability-of-language-models-to-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Face Detection with Python using OpenCV</title>
+      <link>http://localhost:1313/writings/038-face-detection-with-python-using-opencv/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/038-face-detection-with-python-using-opencv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Five wonderful uses of &#39;f- Strings&#39; in Python</title>
+      <link>http://localhost:1313/writings/052-five-wonderful-uses-of-f-strings-in-python/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/052-five-wonderful-uses-of-f-strings-in-python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Free hands-on tutorials to get started in Natural Language Processing</title>
+      <link>http://localhost:1313/writings/042-free-hands-on-tutorials-to-get-started-in-natural-/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/042-free-hands-on-tutorials-to-get-started-in-natural-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Getting more value from the Pandas&#39; value_counts()</title>
+      <link>http://localhost:1313/writings/058-getting-more-value-from-the-pandas-value_counts/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/058-getting-more-value-from-the-pandas-value_counts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>H2O AI Hybrid Cloud: Democratizing AI for every person and every organization</title>
+      <link>http://localhost:1313/writings/022-h2o-ai-hybrid-cloud-democratizing-ai-for-every-per/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/022-h2o-ai-hybrid-cloud-democratizing-ai-for-every-per/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How effective is Google&#39;s Bold and Responsible Approach to AI?</title>
+      <link>http://localhost:1313/writings/029-how-effective-is-googles-bold-and-responsible-appr/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/029-how-effective-is-googles-bold-and-responsible-appr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How effective is Google&#39;s Bold and Responsible Approach to AI?</title>
+      <link>http://localhost:1313/writings/068-how-effective-is-googles-bold-and-responsible-appr/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/068-how-effective-is-googles-bold-and-responsible-appr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How to effectively employ an AI strategy in your business</title>
+      <link>http://localhost:1313/writings/066-how-to-effectively-employ-an-ai-strategy-in-your-b/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/066-how-to-effectively-employ-an-ai-strategy-in-your-b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Increasing the amount and diversity of data using scikit-image in Python</title>
+      <link>http://localhost:1313/writings/035-increasing-the-amount-and-diversity-of-data-using-/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/035-increasing-the-amount-and-diversity-of-data-using-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Insights into Llama 2 Development: Notes on Angela Fan&#39;s Lecture</title>
+      <link>http://localhost:1313/writings/007-insights-into-llama-2-development-notes-on-angela-/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/007-insights-into-llama-2-development-notes-on-angela-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interactive Geographical maps with GeoPandas</title>
+      <link>http://localhost:1313/writings/065-interactive-geographical-maps-with-geopandas/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/065-interactive-geographical-maps-with-geopandas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interpretable Machine Learning</title>
+      <link>http://localhost:1313/writings/034-interpretable-machine-learning/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/034-interpretable-machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interpretable or Accurate? Why not both?</title>
+      <link>http://localhost:1313/writings/032-interpretable-or-accurate-why-not-both/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/032-interpretable-or-accurate-why-not-both/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Making Interactive Quizzes with Gradio in Google Colab</title>
+      <link>http://localhost:1313/writings/014-making-interactive-quizzes-with-gradio-in-google-c/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/014-making-interactive-quizzes-with-gradio-in-google-c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My Experiments with NotebookLM for Teaching</title>
+      <link>http://localhost:1313/writings/001-my-experiments-with-notebooklm-for-teaching/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/001-my-experiments-with-notebooklm-for-teaching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My favorite tools for managing, organizing, and reading research papers</title>
+      <link>http://localhost:1313/writings/020-my-favorite-tools-for-managing-organizing-and-read/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/020-my-favorite-tools-for-managing-organizing-and-read/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My Running List of Gradio Features That Actually Matter</title>
+      <link>http://localhost:1313/writings/015-my-running-list-of-gradio-features-that-actually-m/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/015-my-running-list-of-gradio-features-that-actually-m/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NotebookLM &#43; Crossword Labs: Quickly Create Puzzles from Your Lessons</title>
+      <link>http://localhost:1313/writings/004-notebooklm-crossword-labs-quickly-create-puzzles-f/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/004-notebooklm-crossword-labs-quickly-create-puzzles-f/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organizational Processes for Machine Learning Risk Management</title>
+      <link>http://localhost:1313/writings/026-organizational-processes-for-machine-learning-risk/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/026-organizational-processes-for-machine-learning-risk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming with Databases in Python using SQLite</title>
+      <link>http://localhost:1313/writings/044-programming-with-databases-in-python-using-sqlite/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/044-programming-with-databases-in-python-using-sqlite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publishing Is Powerful as It Serves as a Catalyst for Scope and Writing Decisions</title>
+      <link>http://localhost:1313/writings/011-publishing-is-powerful-as-it-serves-as-a-catalyst-/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/011-publishing-is-powerful-as-it-serves-as-a-catalyst-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python&#39;s Collections Module — High-performance container data types</title>
+      <link>http://localhost:1313/writings/062-pythons-collections-module-high-performance-contai/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/062-pythons-collections-module-high-performance-contai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shapley summary plots: the latest addition to the H2O.ai&#39;s Explainability arsenal</title>
+      <link>http://localhost:1313/writings/033-shapley-summary-plots-the-latest-addition-to-the-h/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/033-shapley-summary-plots-the-latest-addition-to-the-h/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)</title>
+      <link>http://localhost:1313/writings/041-simplifying-sentiment-analysis-using-vader-in-pyth/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/041-simplifying-sentiment-analysis-using-vader-in-pyth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speed up your Data Analysis with Python&#39;s Datatable package</title>
+      <link>http://localhost:1313/writings/047-speed-up-your-data-analysis-with-pythons-datatable/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/047-speed-up-your-data-analysis-with-pythons-datatable/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL Interface within JupyterLab</title>
+      <link>http://localhost:1313/writings/045-sql-interface-within-jupyterlab/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/045-sql-interface-within-jupyterlab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching Data Literacy with Hugging Face’s AI Sheets</title>
+      <link>http://localhost:1313/writings/021-teaching-data-literacy-with-hugging-faces-ai-sheet/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/021-teaching-data-literacy-with-hugging-faces-ai-sheet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Things I Learnt by Participating in GenAI Hackathons Over the Past 6 Months</title>
+      <link>http://localhost:1313/writings/013-things-i-learnt-by-participating-in-genai-hackatho/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/013-things-i-learnt-by-participating-in-genai-hackatho/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understanding Decision Trees</title>
+      <link>http://localhost:1313/writings/063-understanding-decision-trees/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/063-understanding-decision-trees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Use Colab more efficiently with these hacks</title>
+      <link>http://localhost:1313/writings/053-use-colab-more-efficiently-with-these-hacks/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/053-use-colab-more-efficiently-with-these-hacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Useful pip commands for Data Science</title>
+      <link>http://localhost:1313/writings/057-useful-pip-commands-for-data-science/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/057-useful-pip-commands-for-data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Useful String Methods in Python</title>
+      <link>http://localhost:1313/writings/059-useful-string-methods-in-python/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/059-useful-string-methods-in-python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Using Python&#39;s datatable library seamlessly on Kaggle</title>
+      <link>http://localhost:1313/writings/055-using-pythons-datatable-library-seamlessly-on-kagg/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/055-using-pythons-datatable-library-seamlessly-on-kagg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vegetation Index calculation from Satellite Imagery</title>
+      <link>http://localhost:1313/writings/037-vegetation-index-calculation-from-satellite-imager/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/037-vegetation-index-calculation-from-satellite-imager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visual Guides to understand the basics of Large Language Models</title>
+      <link>http://localhost:1313/writings/006-visual-guides-to-understand-the-basics-of-large-la/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/006-visual-guides-to-understand-the-basics-of-large-la/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualizing India&#39;s Seismic activity</title>
+      <link>http://localhost:1313/writings/064-visualizing-indias-seismic-activity/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/064-visualizing-indias-seismic-activity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Why I&#39;m Making the Switch to Marimo Notebooks</title>
+      <link>http://localhost:1313/writings/051-why-im-making-the-switch-to-marimo-notebooks/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/051-why-im-making-the-switch-to-marimo-notebooks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing a book on NLP is a bit like solving a complex data science project</title>
+      <link>http://localhost:1313/writings/012-writing-a-book-on-nlp-is-a-bit-like-solving-a-comp/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/012-writing-a-book-on-nlp-is-a-bit-like-solving-a-comp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>You do not become better by employing fancy techniques but by working on the fundamentals</title>
+      <link>http://localhost:1313/writings/010-you-do-not-become-better-by-employing-fancy-techni/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/010-you-do-not-become-better-by-employing-fancy-techni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Can LangExtract Turn Messy Clinical Notes Into Structured Data?</title>
+      <link>http://localhost:1313/writings/002-can-langextract-turn-messy-clinical-notes-into-str/</link>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/002-can-langextract-turn-messy-clinical-notes-into-str/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Build Your Own AI Coding Assistant in JupyterLab with Ollama and Hugging Face</title>
+      <link>http://localhost:1313/writings/003-build-your-own-ai-coding-assistant-in-jupyterlab-w/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/003-build-your-own-ai-coding-assistant-in-jupyterlab-w/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Things I Learnt by Participating in GenAI Hackathons Over the Past 6 Months</title>
+      <link>http://localhost:1313/writings/070-genai-hackathons/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/070-genai-hackathons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Why I&#39;m Making the Switch to Marimo Notebooks</title>
+      <link>http://localhost:1313/writings/071---marimo-notebooks/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/071---marimo-notebooks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bridging Domains: Infusing Financial, Privacy, and Software Best Practices into ML Risk Management</title>
+      <link>http://localhost:1313/writings/responsible-ai-domains/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/responsible-ai-domains/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Parul. I combine data science and developer advocacy to make machine learning accessible, responsible, and useful for real teams and communities. I&amp;rsquo;ve worked at H2O.ai (Principal Data Scientist) and Weights &amp;amp; Biases (Machine Learning Engineer). I co-authored an O&amp;rsquo;Reilly book titled Machine Learning for High-Risk Applications and regularly contribute to open-source projects and technical writing. I speak at conferences, mentor community programs, and write regularly. For recent project work and hackathon demos, check out the &lt;a href=&#34;http://localhost:1313/hackathons/&#34;&gt;Hackathons&lt;/a&gt; page.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hackathons &amp; Competitions</title>
+      <link>http://localhost:1313/hackathons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hackathons/</guid>
+      <description>&lt;p&gt;This page lists hackathons and competitions I participate in, with a short summary, outcomes, and links to work and writeups.&lt;/p&gt;
+&lt;div class=&#34;hackathon-card&#34;&gt;
+    &lt;h3&gt;Meta Kaggle Hackathon — 2nd place&lt;/h3&gt;
+    &lt;p&gt;I tried to look at the data from Kaggle&#39;s perspective — i.e., what signals matter most for community growth, and more importantly, whether Kaggle&#39;s recent efforts are helping revive the community.&lt;/p&gt;
+    &lt;p&gt;I believe this kind of activity can be crucial for any community as it helps in understanding what keeps people coming back, contributing, and feeling connected.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interviews</title>
+      <link>http://localhost:1313/interviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/interviews/</guid>
+      <description>&lt;p&gt;Here are some of my interviews:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Talk&lt;/th&gt;
+          &lt;th&gt;Website&lt;/th&gt;
+          &lt;th&gt;Year&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://medium.com/@kaggleteam/a-career-360-during-maternity-leave-a-mothers-day-interview-with-kaggler-paurl-pandey-497333be8a60/&#34;&gt;A Career 360 During Maternity Leave&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Kaggle Blog&lt;/td&gt;
+          &lt;td&gt;May 2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://towardsdatascience.com/how-to-break-down-silos-and-find-community-as-a-data-scientist-c9c8c862f30e/&#34;&gt;How to Break Down Silos and Find Community&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Towards Data Science&lt;/td&gt;
+          &lt;td&gt;April 2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://t.co/QbfEpNbief&#34;&gt;INDIAai – 21 Women in &amp;lsquo;21&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;INDIAai&lt;/td&gt;
+          &lt;td&gt;March 2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://gadgetsnow.indiatimes.com/tech-news/what-you-need-to-do-to-become-a-good-data-scientist/articleshow/81548531.cms&#34;&gt;What You Need to Do to Become a Good Data Scientist&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Times of India&lt;/td&gt;
+          &lt;td&gt;March 3, 2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.widsworldwide.org/get-inspired/blog/data-science-evangelist-parul-pandey-describes-how-the-wids-datathon-encourages-collaboration-between-and-across-teams/&#34;&gt;Data Science Evangelist Parul Pandey Describes How the WiDS Datathon Encourages Collaboration&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;WiDS Blog&lt;/td&gt;
+          &lt;td&gt;February 2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.predera.com/ladies-speak-up-for-yourself/&#34;&gt;Ladies, Speak Up for Yourself!&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Predera&lt;/td&gt;
+          &lt;td&gt;January 2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://h2o.ai/blog/leaders-voice-parul-pandey/&#34;&gt;Leader&amp;rsquo;s Voice&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;H2O.ai&lt;/td&gt;
+          &lt;td&gt;June 2020&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.widsconference.org/blog/getting-started-with-data-science-blogging&#34;&gt;Getting Started with Data Science &amp;amp; Blogging&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Women in Data Science&lt;/td&gt;
+          &lt;td&gt;May 2020&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://analyticsindiamag.com/you-dont-necessarily-need-a-resume/&#34;&gt;You Don&amp;rsquo;t Necessarily Need a Resume&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Analytics India Magazine&lt;/td&gt;
+          &lt;td&gt;March 2020&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>http://localhost:1313/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/</guid>
+      <description>&lt;h2 id=&#34;speaking-engagements&#34;&gt;Speaking Engagements&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Talk&lt;/th&gt;
+          &lt;th&gt;Venue&lt;/th&gt;
+          &lt;th&gt;Year&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Lqxu63bEdt0&#34;&gt;Building, learning &amp;amp; Teaching with AI&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Podcast&lt;/td&gt;
+          &lt;td&gt;2025&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.fiddler.ai/webinars/ai-explained-machine-learning-for-high-risk-applications&#34;&gt;AI Explained: Machine Learning for High Risk Applications&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Fiddler.ai&lt;/td&gt;
+          &lt;td&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://youtu.be/aHzI3IQoG30&#34;&gt;Lightning Interview: Risk and Reward: Unraveling Machine Learning for High-Risk Applications&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;ODSC&lt;/td&gt;
+          &lt;td&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://youtu.be/sk_dsrw0A3U&#34;&gt;Kaggle Grandmaster Panel at H2O World India 2023&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;H2O World India&lt;/td&gt;
+          &lt;td&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://youtu.be/8mRqooRpEEg&#34;&gt;AI for Good: H2O Olympics Hackathon – Winner Announcement at H2O World India 2023&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;H2O World India&lt;/td&gt;
+          &lt;td&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://youtu.be/NfzJ42lP5ek&#34;&gt;Explaining models built in H2O-3&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Webinar&lt;/td&gt;
+          &lt;td&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://youtu.be/L7241CRtymg&#34;&gt;Kaggle Grandmaster &amp;amp; ML for High Risk Applications #30&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;AI Stories Podcast&lt;/td&gt;
+          &lt;td&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Fireside Chat at Amazon&lt;/td&gt;
+          &lt;td&gt;Amazon&lt;/td&gt;
+          &lt;td&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Digital Transformation with AI&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+          &lt;td&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;WIDS Hyderabad 2021 Conference&lt;/td&gt;
+          &lt;td&gt;WIDS Hyderabad&lt;/td&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Growth of Automated ML in Industry&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Career Transitioning into Data Science&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Women in Data Science Speak Series&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Workshop on Automated ML for Financial Risk Modelling&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Evolving World in AI and ML&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;What can we achieve with Automated ML&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Women in Data Science, Hyderabad Workshop&lt;/td&gt;
+          &lt;td&gt;WIDS Hyderabad&lt;/td&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lightning Talk at Mindhack Summit&lt;/td&gt;
+          &lt;td&gt;Mindhack Summit&lt;/td&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PyConf Hyderabad 2020 – 6th Dec, 2020&lt;/td&gt;
+          &lt;td&gt;PyConf Hyderabad&lt;/td&gt;
+          &lt;td&gt;2020&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Webinar for Andhra Pradesh State Skill Development Corporation (APSSDC) – 21st Nov, 2020&lt;/td&gt;
+          &lt;td&gt;APSSDC&lt;/td&gt;
+          &lt;td&gt;2020&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Data Science Conference Europe 2020 – 19th Nov, 2020&lt;/td&gt;
+          &lt;td&gt;Data Science Conference Europe&lt;/td&gt;
+          &lt;td&gt;2020&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ICFAI Business School (IBS) Hyderabad Talk – 13th Nov, 2020&lt;/td&gt;
+          &lt;td&gt;IBS Hyderabad&lt;/td&gt;
+          &lt;td&gt;2020&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Machine Learning for Everyone (ML4E), National Institute of Technology, Rourkela – 3rd Oct, 2020&lt;/td&gt;
+          &lt;td&gt;NIT Rourkela&lt;/td&gt;
+          &lt;td&gt;2020&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kaggler&amp;rsquo;s Talk – EP01: How to Use Kaggle to Create a Data Science Portfolio?&lt;/td&gt;
+          &lt;td&gt;Online&lt;/td&gt;
+          &lt;td&gt;2020&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kaggle Days Hyderabad Meetup&lt;/td&gt;
+          &lt;td&gt;Hyderabad&lt;/td&gt;
+          &lt;td&gt;2020&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;workshops&#34;&gt;Workshops&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Workshop&lt;/th&gt;
+          &lt;th&gt;Venue&lt;/th&gt;
+          &lt;th&gt;Year&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.oreilly.com/live-events/explainable-machine-learning-modelswith-interactivity/0636920061943/0636920070178/&#34;&gt;Explainable Machine Learning Models—with Interactivity&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;O&amp;rsquo;Reilly&lt;/td&gt;
+          &lt;td&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>

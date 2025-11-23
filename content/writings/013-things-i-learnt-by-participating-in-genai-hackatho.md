@@ -1,0 +1,6 @@
+---
+title: "Things I Learnt by Participating in GenAI Hackathons Over the Past 6 Months"
+external_url: "https://towardsdatascience.com/things-i-learnt-by-participating-in-genai-hackathons-over-the-past-6-months/"
+category: "Tips & Tricks"
+date: 2025-11-22
+---
