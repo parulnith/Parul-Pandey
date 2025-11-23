@@ -24,13 +24,15 @@ jobs:
           hugo-version: "latest"
           extended: true
 
-      - name: Build
-        run: hugo --minify
+      - name: Build Hugo site
+        run: |
+          cd hugo-site
+          hugo --minify
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: hugo-site/public
 
   deploy:
     needs: build
