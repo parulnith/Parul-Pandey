@@ -1,0 +1,76 @@
+{{ define "main" }}
+
+<article class="first-entry home-info">
+    <div class="entry-content">
+        <div style="display: flex; align-items: center; gap: 24px; margin-bottom: 32px; flex-wrap: wrap;">
+            <div style="flex: 0 0 160px;">
+                <img src="/images/profile-pic.png" alt="Parul Pandey"
+                     style="width: 160px; height: 160px; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+            </div>
+            <div style="flex: 1; min-width: 280px;">
+                <h1 style="margin: 0 0 8px 0; font-size: 32px;">Parul Pandey</h1>
+                <p class="profile-subtitle" style="margin: 0 0 16px 0; font-size: 16px;">Data Scientist • Author • Speaker</p>
+                <div class="social-icons" style="display: flex; gap: 12px;">
+                    {{- range .Site.Params.socialIcons }}
+                    {{- if or (eq .name "linkedin") (eq .name "twitter") (eq .name "github") (eq .name "medium") }}
+                    <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" title="{{ .name }}">
+                        {{ partial "svg.html" . }}
+                    </a>
+                    {{- end }}
+                    {{- end }}
+                </div>
+            </div>
+        </div>
+
+        {{ .Content }}
+
+        {{- if .Params.book }}
+        <div class="content-section book-section" style="margin-top: 40px; padding: 24px; border-radius: 12px; border-left: 4px solid #2563eb;">
+            <h2 style="margin-top: 0;">Book</h2>
+            <div style="display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap;">
+                <div style="flex: 0 0 160px;">
+                    <a href="{{ .Params.book.amazon_link }}">
+                        <img src="{{ .Params.book.image | relURL }}" alt="{{ .Params.book.title }}"
+                             style="width: 160px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+                    </a>
+                </div>
+                <div style="flex: 1; min-width: 280px;">
+                    <p>{{ .Params.book.description | safeHTML }}</p>
+                    <div style="display: flex; gap: 12px; margin-top: 16px; flex-wrap: wrap;">
+                        <a href="{{ .Params.book.oreilly_link }}"
+                           style="padding: 10px 20px; background: #1e293b; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">
+                            Read on O'Reilly
+                        </a>
+                        <a href="{{ .Params.book.amazon_link }}"
+                           style="padding: 10px 20px; background: #2563eb; color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">
+                            Buy on Amazon
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{- end }}
+
+        {{- range .Params.sections }}
+        <div class="content-section" style="margin-top: 40px; padding: 24px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h2 style="margin-top: 0;">{{ .title }}</h2>
+            <p>{{ .content | safeHTML }}</p>
+            {{- if .list }}
+            <ul>
+                {{- range .list }}
+                <li><a href="{{ .url }}" target="_blank">{{ .text }}</a></li>
+                {{- end }}
+            </ul>
+            {{- end }}
+            {{- if .image }}
+            <div style="text-align: center; margin-top: 16px;">
+                <img src="{{ .image | relURL }}" alt="{{ .title }}"
+                     style="max-width: 420px; width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+            </div>
+            {{- end }}
+        </div>
+        {{- end }}
+    </div>
+</article>
+
+{{ end }}

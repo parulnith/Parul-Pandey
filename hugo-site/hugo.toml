@@ -1,0 +1,66 @@
+baseURL = 'https://parulpandey.com'
+languageCode = 'en-us'
+title = 'Parul Pandey'
+theme = 'PaperMod'
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Data Scientist • Author • Speaker"
+  author = "Parul Pandey"
+
+  # PaperMod specific settings
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = false
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/parulpandeyindia"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://x.com/pandeyparul"
+
+  [[params.socialIcons]]
+    name = "medium"
+    url = "https://medium.com/@pandeyparul"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/parulnith"
+
+  [[params.socialIcons]]
+    name = "kaggle"
+    url = "https://www.kaggle.com/parulpandey"
+
+[menu]
+  [[menu.main]]
+    name = "Writings"
+    url = "/writings/"
+    weight = 1
+  [[menu.main]]
+    name = "Talks"
+    url = "/talks/"
+    weight = 2
+  [[menu.main]]
+    name = "Interviews"
+    url = "/interviews/"
+    weight = 3
+  [[menu.main]]
+    name = "Hackathons"
+    url = "/hackathons/"
+    weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = 'monokai'
