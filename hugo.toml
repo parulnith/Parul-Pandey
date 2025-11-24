@@ -2,6 +2,8 @@ baseURL = 'https://parulpandey.com'
 languageCode = 'en-us'
 title = 'Parul Pandey'
 theme = 'PaperMod'
+googleAnalytics = "G-NRQ9GNDVH4"
+
 
 [pagination]
   pagerSize = 10
