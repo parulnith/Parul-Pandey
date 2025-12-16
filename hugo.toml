@@ -59,6 +59,10 @@ googleAnalytics = "G-NRQ9GNDVH4"
     name = "Hackathons"
     url = "/hackathons/"
     weight = 4
+  [[menu.main]]
+    name = "Courses"
+    url = "/courses/"
+    weight = 5
 
 [markup]
   [markup.goldmark]
