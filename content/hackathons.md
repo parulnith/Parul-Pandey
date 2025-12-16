@@ -1,5 +1,5 @@
 ---
-title: "Hackathons & Competitions"
+title: "Hackathons"
 ---
 
 This page lists events I joined, with a short summary, outcomes, and links to my work.
