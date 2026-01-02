@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I’m Making the Switch to marimo Notebooks</title>
-      <link>http://localhost:1313/writings/071-why-im-making-the-switch-to-marimo-notebooks/</link>
+      <link>http://localhost:1313/writings/071-why-im-making-the-switch-to-marimo-notebooks-copy/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/071-why-im-making-the-switch-to-marimo-notebooks/</guid>
+      <guid>http://localhost:1313/writings/071-why-im-making-the-switch-to-marimo-notebooks-copy/</guid>
       <description></description>
     </item>
     <item>
@@ -482,6 +482,13 @@
       <link>http://localhost:1313/writings/002-can-langextract-turn-messy-clinical-notes-into-str/</link>
       <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/002-can-langextract-turn-messy-clinical-notes-into-str/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Making Interactive Quizzes with Gradio in Google Colab</title>
+      <link>http://localhost:1313/writings/072-making-interactive-quizzes-with-gradio-in-google-colab/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/072-making-interactive-quizzes-with-gradio-in-google-colab/</guid>
       <description></description>
     </item>
     <item>
