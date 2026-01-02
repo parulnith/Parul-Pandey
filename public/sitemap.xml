@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/070-genai-hackathons/</loc>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/071---marimo-notebooks/</loc>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/</loc>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/writings/016-a-close-look-at-colabs-new-updates-and-enhancement/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -101,9 +113,6 @@
     <loc>http://localhost:1313/writings/022-h2o-ai-hybrid-cloud-democratizing-ai-for-every-per/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/writings/029-how-effective-is-googles-bold-and-responsible-appr/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -114,9 +123,6 @@
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writings/035-increasing-the-amount-and-diversity-of-data-using-/</loc>
-    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/writings/007-insights-into-llama-2-development-notes-on-angela-/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writings/065-interactive-geographical-maps-with-geopandas/</loc>
@@ -170,9 +176,6 @@
     <loc>http://localhost:1313/writings/021-teaching-data-literacy-with-hugging-faces-ai-sheet/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writings/013-things-i-learnt-by-participating-in-genai-hackatho/</loc>
-    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/writings/063-understanding-decision-trees/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -203,23 +206,17 @@
     <loc>http://localhost:1313/writings/012-writing-a-book-on-nlp-is-a-bit-like-solving-a-comp/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writings/</loc>
-    <lastmod>2025-11-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/writings/010-you-do-not-become-better-by-employing-fancy-techni/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/003-build-your-own-ai-coding-assistant-in-jupyterlab-w/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writings/002-can-langextract-turn-messy-clinical-notes-into-str/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writings/003-build-your-own-ai-coding-assistant-in-jupyterlab-w/</loc>
-    <lastmod>2025-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/writings/070-genai-hackathons/</loc>
-    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/writings/071---marimo-notebooks/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/writings/007-insights-into-llama-2-development-notes-on-angela-/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writings/responsible-ai-domains/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
@@ -227,6 +224,8 @@
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/courses/</loc>
   </url><url>
     <loc>http://localhost:1313/hackathons/</loc>
   </url><url>

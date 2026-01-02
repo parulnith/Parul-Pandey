@@ -6,8 +6,22 @@
     <description>Recent content in Home on Parul Pandey</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things I Learnt by Participating in GenAI Hackathons Over the Past 6 Months</title>
+      <link>http://localhost:1313/writings/070-genai-hackathons/</link>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/070-genai-hackathons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Why I&#39;m Making the Switch to Marimo Notebooks</title>
+      <link>http://localhost:1313/writings/071---marimo-notebooks/</link>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/071---marimo-notebooks/</guid>
+      <description></description>
+    </item>
     <item>
       <title>A Close Look at Colab&#39;s new updates and enhancements</title>
       <link>http://localhost:1313/writings/016-a-close-look-at-colabs-new-updates-and-enhancement/</link>
@@ -268,13 +282,6 @@
       <description></description>
     </item>
     <item>
-      <title>Insights into Llama 2 Development: Notes on Angela Fan&#39;s Lecture</title>
-      <link>http://localhost:1313/writings/007-insights-into-llama-2-development-notes-on-angela-/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/007-insights-into-llama-2-development-notes-on-angela-/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Interactive Geographical maps with GeoPandas</title>
       <link>http://localhost:1313/writings/065-interactive-geographical-maps-with-geopandas/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
@@ -394,13 +401,6 @@
       <description></description>
     </item>
     <item>
-      <title>Things I Learnt by Participating in GenAI Hackathons Over the Past 6 Months</title>
-      <link>http://localhost:1313/writings/013-things-i-learnt-by-participating-in-genai-hackatho/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/013-things-i-learnt-by-participating-in-genai-hackatho/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Understanding Decision Trees</title>
       <link>http://localhost:1313/writings/063-understanding-decision-trees/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
@@ -478,6 +478,13 @@
       <description></description>
     </item>
     <item>
+      <title>Build Your Own AI Coding Assistant in JupyterLab with Ollama and Hugging Face</title>
+      <link>http://localhost:1313/writings/003-build-your-own-ai-coding-assistant-in-jupyterlab-w/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/003-build-your-own-ai-coding-assistant-in-jupyterlab-w/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Can LangExtract Turn Messy Clinical Notes Into Structured Data?</title>
       <link>http://localhost:1313/writings/002-can-langextract-turn-messy-clinical-notes-into-str/</link>
       <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
@@ -485,24 +492,10 @@
       <description></description>
     </item>
     <item>
-      <title>Build Your Own AI Coding Assistant in JupyterLab with Ollama and Hugging Face</title>
-      <link>http://localhost:1313/writings/003-build-your-own-ai-coding-assistant-in-jupyterlab-w/</link>
-      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/003-build-your-own-ai-coding-assistant-in-jupyterlab-w/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Things I Learnt by Participating in GenAI Hackathons Over the Past 6 Months</title>
-      <link>http://localhost:1313/writings/070-genai-hackathons/</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/070-genai-hackathons/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Why I&#39;m Making the Switch to Marimo Notebooks</title>
-      <link>http://localhost:1313/writings/071---marimo-notebooks/</link>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/071---marimo-notebooks/</guid>
+      <title>Insights into Llama 2 Development: Notes on Angela Fan&#39;s Lecture</title>
+      <link>http://localhost:1313/writings/007-insights-into-llama-2-development-notes-on-angela-/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/007-insights-into-llama-2-development-notes-on-angela-/</guid>
       <description></description>
     </item>
     <item>
@@ -520,15 +513,28 @@
       <description>&lt;p&gt;Hi, I&amp;rsquo;m Parul. I combine data science and developer advocacy to make machine learning accessible, responsible, and useful for real teams and communities. I&amp;rsquo;ve worked at H2O.ai (Principal Data Scientist) and Weights &amp;amp; Biases (Machine Learning Engineer). I co-authored an O&amp;rsquo;Reilly book titled Machine Learning for High-Risk Applications and regularly contribute to open-source projects and technical writing. I speak at conferences, mentor community programs, and write regularly. For recent project work and hackathon demos, check out the &lt;a href=&#34;http://localhost:1313/hackathons/&#34;&gt;Hackathons&lt;/a&gt; page.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Hackathons &amp; Competitions</title>
+      <title>Courses</title>
+      <link>http://localhost:1313/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/</guid>
+      <description>&lt;script&gt;
+  window.location.href = &#34;https://parulnith.github.io/courses/&#34;;
+&lt;/script&gt;
+&lt;p&gt;If you are not redirected, &lt;a href=&#34;https://parulnith.github.io/courses/&#34;&gt;click here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hackathons</title>
       <link>http://localhost:1313/hackathons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hackathons/</guid>
-      <description>&lt;p&gt;This page lists hackathons and competitions I participate in, with a short summary, outcomes, and links to work and writeups.&lt;/p&gt;
-&lt;div class=&#34;hackathon-card&#34;&gt;
-    &lt;h3&gt;Meta Kaggle Hackathon — 2nd place&lt;/h3&gt;
-    &lt;p&gt;I tried to look at the data from Kaggle&#39;s perspective — i.e., what signals matter most for community growth, and more importantly, whether Kaggle&#39;s recent efforts are helping revive the community.&lt;/p&gt;
-    &lt;p&gt;I believe this kind of activity can be crucial for any community as it helps in understanding what keeps people coming back, contributing, and feeling connected.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This page lists events I joined, with a short summary, outcomes, and links to my work.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;geek-girls-rising--prize-winner&#34;&gt;Geek Girls Rising — Prize Winner&lt;/h3&gt;
+&lt;p&gt;This notebook studied gender trends using the Kaggle ML and DS Survey. I wrote it to look at real patterns instead of guesses. It later won a prize in the 2019 survey event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/code/parulpandey/geek-girls-rising-myth-or-reality&#34;&gt;&lt;strong&gt;Notebook&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;meta-kaggle-hackathon--2nd-place&#34;&gt;Meta Kaggle Hackathon — 2nd place&lt;/h3&gt;
+&lt;p&gt;I looked at user behavior to see which signals matter for long term growth and whether the steps taken by Kaggle were moving things in a good direction.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interviews</title>

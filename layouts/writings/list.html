@@ -12,19 +12,11 @@
   <div class="post-content">
     {{ .Content }}
 
-    {{- $pages := .Pages.GroupByParam "category" }}
-    {{- $categoryOrder := slice "Generative AI" "Kaggle" "Interviews" "Tips & Tricks" "Automated Machine Learning" "Responsible AI" "Computer Vision" "Natural Language Processing" "SQL" "Data Analysis & Visualisation" "Programming & Python" "Satellite Imagery Analysis" "Thought Articles on AI" "Miscellaneous" }}
-
-    {{- range $categoryOrder }}
-    {{- $currentCategory := . }}
-    {{- range $pages }}
-    {{- if eq .Key $currentCategory }}
     <div style="margin-top: 32px;">
-      <h2 style="font-size: 22px; color: #1e293b; margin-bottom: 16px;">{{ .Key }}</h2>
       <div style="border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden;">
         <table style="width: 100%; border-collapse: collapse;">
           <tbody>
-            {{- range .Pages }}
+            {{- range .Pages.ByDate.Reverse }}
             <tr style="border-bottom: 1px solid #e2e8f0; transition: all 0.3s ease;">
               <td style="padding: 16px 20px;">
                 <a href="{{ .Params.external_url }}" target="_blank" 
@@ -38,9 +30,6 @@
         </table>
       </div>
     </div>
-    {{- end }}
-    {{- end }}
-    {{- end }}
   </div>
 </article>
 
