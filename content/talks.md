@@ -6,7 +6,7 @@ title: "Talks"
 
 | Talk | Venue | Year |
 |------|-------|------|
-| [Data Science in the Age of LLMs : IIT Guwahati] Online | Seminar | 2025 |
+| Data Science in the Age of LLMs : IIT Guwahati |  Online | Seminar | 2025 |
 | [Building, learning & Teaching with AI](https://www.youtube.com/watch?v=Lqxu63bEdt0) | Podcast | 2025 |
 | [AI Explained: Machine Learning for High Risk Applications](https://www.fiddler.ai/webinars/ai-explained-machine-learning-for-high-risk-applications) | Fiddler.ai | 2023 |
 | [Lightning Interview: Risk and Reward: Unraveling Machine Learning for High-Risk Applications](https://youtu.be/aHzI3IQoG30) | ODSC | 2023 |
