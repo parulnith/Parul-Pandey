@@ -6,15 +6,8 @@
     <description>Recent content in Writings on Parul Pandey</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/writings/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Things I Learnt by Participating in GenAI Hackathons Over the Past 6 Months</title>
-      <link>http://localhost:1313/writings/070-genai-hackathons/</link>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/070-genai-hackathons/</guid>
-      <description></description>
-    </item>
     <item>
       <title>A Close Look at Colab&#39;s new updates and enhancements</title>
       <link>http://localhost:1313/writings/016-a-close-look-at-colabs-new-updates-and-enhancement/</link>
@@ -461,6 +454,20 @@
       <link>http://localhost:1313/writings/010-you-do-not-become-better-by-employing-fancy-techni/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/010-you-do-not-become-better-by-employing-fancy-techni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Things I Learnt by Participating in GenAI Hackathons Over the Past 6 Months</title>
+      <link>http://localhost:1313/writings/070-genai-hackathons/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/070-genai-hackathons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Things I Learnt by Participating in GenAI Hackathons Over the Past 6 Months</title>
+      <link>http://localhost:1313/writings/071-why-im-making-the-switch-to-marimo-notebooks/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/071-why-im-making-the-switch-to-marimo-notebooks/</guid>
       <description></description>
     </item>
     <item>
