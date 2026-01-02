@@ -16,13 +16,18 @@
       <div style="border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden;">
         <table style="width: 100%; border-collapse: collapse;">
           <tbody>
-            {{- range .Pages.ByDate.Reverse }}
+            {{- range .RegularPages.ByDate.Reverse }}
             <tr style="border-bottom: 1px solid #e2e8f0; transition: all 0.3s ease;">
               <td style="padding: 16px 20px;">
-                <a href="{{ .Params.external_url }}" target="_blank" 
-                   style="color: #334155; text-decoration: none; font-weight: 500; display: block;">
-                  {{ .Title }}
-                </a>
+                <div style="display: flex; justify-content: space-between; align-items: baseline; gap: 20px;">
+                  <a href="{{ .Params.external_url }}" target="_blank" 
+                     style="color: #334155; text-decoration: none; font-weight: 500; line-height: 1.4;">
+                    {{ .Title }}
+                  </a>
+                  <span style="color: #64748b; font-size: 0.9em; white-space: nowrap; flex-shrink: 0;">
+                    {{ .Date.Format "Jan 2, 2006" }}
+                  </span>
+                </div>
               </td>
             </tr>
             {{- end }}
