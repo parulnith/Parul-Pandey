@@ -6,8 +6,15 @@
     <description>Recent content in Writings on Parul Pandey</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/writings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I’m Making the Switch to marimo Notebooks</title>
+      <link>http://localhost:1313/writings/071-why-im-making-the-switch-to-marimo-notebooks/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/071-why-im-making-the-switch-to-marimo-notebooks/</guid>
+      <description></description>
+    </item>
     <item>
       <title>A Close Look at Colab&#39;s new updates and enhancements</title>
       <link>http://localhost:1313/writings/016-a-close-look-at-colabs-new-updates-and-enhancement/</link>
@@ -289,13 +296,6 @@
       <description></description>
     </item>
     <item>
-      <title>My Experiments with NotebookLM for Teaching</title>
-      <link>http://localhost:1313/writings/001-my-experiments-with-notebooklm-for-teaching/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/001-my-experiments-with-notebooklm-for-teaching/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>My favorite tools for managing, organizing, and reading research papers</title>
       <link>http://localhost:1313/writings/020-my-favorite-tools-for-managing-organizing-and-read/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
@@ -464,13 +464,6 @@
       <description></description>
     </item>
     <item>
-      <title>Things I Learnt by Participating in GenAI Hackathons Over the Past 6 Months</title>
-      <link>http://localhost:1313/writings/071-why-im-making-the-switch-to-marimo-notebooks/</link>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/071-why-im-making-the-switch-to-marimo-notebooks/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Build Your Own AI Coding Assistant in JupyterLab with Ollama and Hugging Face</title>
       <link>http://localhost:1313/writings/003-build-your-own-ai-coding-assistant-in-jupyterlab-w/</link>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
@@ -478,9 +471,16 @@
       <description></description>
     </item>
     <item>
+      <title>My Experiments with NotebookLM for Teaching</title>
+      <link>http://localhost:1313/writings/001-my-experiments-with-notebooklm-for-teaching/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/001-my-experiments-with-notebooklm-for-teaching/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Can LangExtract Turn Messy Clinical Notes Into Structured Data?</title>
       <link>http://localhost:1313/writings/002-can-langextract-turn-messy-clinical-notes-into-str/</link>
-      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/002-can-langextract-turn-messy-clinical-notes-into-str/</guid>
       <description></description>
     </item>
