@@ -9,7 +9,7 @@
     <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/writings/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why I’m Making the Switch to marimo Notebooks</title>
+      <title>Why I&#39;m Making the Switch to marimo Notebooks</title>
       <link>http://localhost:1313/writings/071-why-im-making-the-switch-to-marimo-notebooks-copy/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/071-why-im-making-the-switch-to-marimo-notebooks-copy/</guid>
@@ -38,13 +38,20 @@
     </item>
     <item>
       <title>Making Interactive Quizzes with Gradio in Google Colab</title>
-      <link>http://localhost:1313/writings/072-making-interactive-quizzes-with-gradio-in-google-colab/</link>
+      <link>http://localhost:1313/writings/014-making-interactive-quizzes-with-gradio-in-google-c/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/072-making-interactive-quizzes-with-gradio-in-google-colab/</guid>
+      <guid>http://localhost:1313/writings/014-making-interactive-quizzes-with-gradio-in-google-c/</guid>
       <description></description>
     </item>
     <item>
-      <title>Teaching Data Literacy with Hugging Face’s AI Sheets</title>
+      <title>Benchmarks, Game Arenas, Writeups, and More: Some Exciting New Updates from Kaggle</title>
+      <link>http://localhost:1313/writings/008-benchmarks-game-arenas-writeups-and-more-some-exci/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/008-benchmarks-game-arenas-writeups-and-more-some-exci/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching Data Literacy with Hugging Face&#39;s AI Sheets</title>
       <link>http://localhost:1313/writings/021-teaching-data-literacy-with-hugging-faces-ai-sheet/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/021-teaching-data-literacy-with-hugging-faces-ai-sheet/</guid>
@@ -58,164 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>A Close Look at Colab&#39;s new updates and enhancements</title>
-      <link>http://localhost:1313/writings/016-a-close-look-at-colabs-new-updates-and-enhancement/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/016-a-close-look-at-colabs-new-updates-and-enhancement/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A Deep dive into H2O&#39;s AutoML</title>
-      <link>http://localhost:1313/writings/024-a-deep-dive-into-h2os-automl/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/024-a-deep-dive-into-h2os-automl/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A Tour of 10 Useful Github Features</title>
-      <link>http://localhost:1313/writings/017-a-tour-of-10-useful-github-features/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/017-a-tour-of-10-useful-github-features/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI for Everyone: Myth or Reality?</title>
-      <link>http://localhost:1313/writings/067-ai-for-everyone-myth-or-reality/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/067-ai-for-everyone-myth-or-reality/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Alternative Python libraries for Data Science</title>
-      <link>http://localhost:1313/writings/048-alternative-python-libraries-for-data-science/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/048-alternative-python-libraries-for-data-science/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>An Overview of Python&#39;s Datatable package</title>
-      <link>http://localhost:1313/writings/061-an-overview-of-pythons-datatable-package/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/061-an-overview-of-pythons-datatable-package/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Analysis of Emotion Data: A Dataset for Emotion Recognition Tasks</title>
-      <link>http://localhost:1313/writings/039-analysis-of-emotion-data-a-dataset-for-emotion-rec/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/039-analysis-of-emotion-data-a-dataset-for-emotion-rec/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automate your data science project structure in three easy steps</title>
-      <link>http://localhost:1313/writings/018-automate-your-data-science-project-structure-in-th/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/018-automate-your-data-science-project-structure-in-th/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automate your Model Documentation using H2O AutoDoc</title>
-      <link>http://localhost:1313/writings/023-automate-your-model-documentation-using-h2o-autodo/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/023-automate-your-model-documentation-using-h2o-autodo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Basics of BASH for Beginners</title>
-      <link>http://localhost:1313/writings/056-basics-of-bash-for-beginners/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/056-basics-of-bash-for-beginners/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Benchmarks, Game Arenas, Writeups, and More: Some Exciting New Updates from Kaggle</title>
-      <link>http://localhost:1313/writings/008-benchmarks-game-arenas-writeups-and-more-some-exci/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/008-benchmarks-game-arenas-writeups-and-more-some-exci/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bridging Domains: Infusing Financial, Privacy, and Software Best Practices into ML Risk Management</title>
-      <link>http://localhost:1313/writings/025-bridging-domains-infusing-financial-privacy-and-so/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/025-bridging-domains-infusing-financial-privacy-and-so/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Building a compelling Data Science Portfolio with writing</title>
-      <link>http://localhost:1313/writings/019-building-a-compelling-data-science-portfolio-with-/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/019-building-a-compelling-data-science-portfolio-with-/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Building a Simple Chatbot from Scratch in Python (using NLTK)</title>
-      <link>http://localhost:1313/writings/040-building-a-simple-chatbot-from-scratch-in-python-u/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/040-building-a-simple-chatbot-from-scratch-in-python-u/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Can Recommendations from LLMs be manipulated to enhance a product&#39;s visibility?</title>
-      <link>http://localhost:1313/writings/005-can-recommendations-from-llms-be-manipulated-to-en/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/005-can-recommendations-from-llms-be-manipulated-to-en/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Creating custom image datasets for Deep Learning projects</title>
-      <link>http://localhost:1313/writings/036-creating-custom-image-datasets-for-deep-learning-p/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/036-creating-custom-image-datasets-for-deep-learning-p/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cultural Competencies for Machine Learning Risk Management</title>
-      <link>http://localhost:1313/writings/027-cultural-competencies-for-machine-learning-risk-ma/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/027-cultural-competencies-for-machine-learning-risk-ma/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Demystifying Neural Networks: A Mathematical Approach (Part 1)</title>
-      <link>http://localhost:1313/writings/049-demystifying-neural-networks-a-mathematical-approa/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/049-demystifying-neural-networks-a-mathematical-approa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Demystifying Neural Networks: A Mathematical Approach (Part 2)</title>
-      <link>http://localhost:1313/writings/050-demystifying-neural-networks-a-mathematical-approa/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/050-demystifying-neural-networks-a-mathematical-approa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Diving Deeper into Stock Data Analysis with Python in Excel</title>
-      <link>http://localhost:1313/writings/046-diving-deeper-into-stock-data-analysis-with-python/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/046-diving-deeper-into-stock-data-analysis-with-python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Effortless Fine-Tuning of Large Language Models with Open-Source H2O LLM Studio</title>
-      <link>http://localhost:1313/writings/043-effortless-fine-tuning-of-large-language-models-wi/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/043-effortless-fine-tuning-of-large-language-models-wi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Elements of Functional Programming in Python</title>
-      <link>http://localhost:1313/writings/060-elements-of-functional-programming-in-python/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/060-elements-of-functional-programming-in-python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Enabling notifications in your Jupyter notebooks for cell completion</title>
-      <link>http://localhost:1313/writings/054-enabling-notifications-in-your-jupyter-notebooks-f/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/054-enabling-notifications-in-your-jupyter-notebooks-f/</guid>
+      <title>My Running List of Gradio Features That Actually Matter</title>
+      <link>http://localhost:1313/writings/015-my-running-list-of-gradio-features-that-actually-m/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/015-my-running-list-of-gradio-features-that-actually-m/</guid>
       <description></description>
     </item>
     <item>
@@ -226,234 +79,17 @@
       <description></description>
     </item>
     <item>
-      <title>Explaining models built in H2O</title>
-      <link>http://localhost:1313/writings/028-explaining-models-built-in-h2o/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/028-explaining-models-built-in-h2o/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Exploring the Vulnerability of Language Models to Poisoning Attacks</title>
-      <link>http://localhost:1313/writings/030-exploring-the-vulnerability-of-language-models-to-/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/030-exploring-the-vulnerability-of-language-models-to-/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Face Detection with Python using OpenCV</title>
-      <link>http://localhost:1313/writings/038-face-detection-with-python-using-opencv/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/038-face-detection-with-python-using-opencv/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Five wonderful uses of &#39;f- Strings&#39; in Python</title>
-      <link>http://localhost:1313/writings/052-five-wonderful-uses-of-f-strings-in-python/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/052-five-wonderful-uses-of-f-strings-in-python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Free hands-on tutorials to get started in Natural Language Processing</title>
-      <link>http://localhost:1313/writings/042-free-hands-on-tutorials-to-get-started-in-natural-/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/042-free-hands-on-tutorials-to-get-started-in-natural-/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Getting more value from the Pandas&#39; value_counts()</title>
-      <link>http://localhost:1313/writings/058-getting-more-value-from-the-pandas-value_counts/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/058-getting-more-value-from-the-pandas-value_counts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>H2O AI Hybrid Cloud: Democratizing AI for every person and every organization</title>
-      <link>http://localhost:1313/writings/022-h2o-ai-hybrid-cloud-democratizing-ai-for-every-per/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/022-h2o-ai-hybrid-cloud-democratizing-ai-for-every-per/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>How effective is Google&#39;s Bold and Responsible Approach to AI?</title>
-      <link>http://localhost:1313/writings/029-how-effective-is-googles-bold-and-responsible-appr/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/029-how-effective-is-googles-bold-and-responsible-appr/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>How to effectively employ an AI strategy in your business</title>
-      <link>http://localhost:1313/writings/066-how-to-effectively-employ-an-ai-strategy-in-your-b/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/066-how-to-effectively-employ-an-ai-strategy-in-your-b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Increasing the amount and diversity of data using scikit-image in Python</title>
-      <link>http://localhost:1313/writings/035-increasing-the-amount-and-diversity-of-data-using-/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/035-increasing-the-amount-and-diversity-of-data-using-/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Insights into Llama 2 Development: Notes on Angela Fan&#39;s Lecture</title>
-      <link>http://localhost:1313/writings/007-insights-into-llama-2-development-notes-on-angela-/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/007-insights-into-llama-2-development-notes-on-angela-/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Interactive Geographical maps with GeoPandas</title>
-      <link>http://localhost:1313/writings/065-interactive-geographical-maps-with-geopandas/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/065-interactive-geographical-maps-with-geopandas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Interpretable Machine Learning</title>
-      <link>http://localhost:1313/writings/034-interpretable-machine-learning/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/034-interpretable-machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Interpretable or Accurate? Why not both?</title>
-      <link>http://localhost:1313/writings/032-interpretable-or-accurate-why-not-both/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/032-interpretable-or-accurate-why-not-both/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Making Interactive Quizzes with Gradio in Google Colab</title>
-      <link>http://localhost:1313/writings/014-making-interactive-quizzes-with-gradio-in-google-c/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/014-making-interactive-quizzes-with-gradio-in-google-c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My favorite tools for managing, organizing, and reading research papers</title>
-      <link>http://localhost:1313/writings/020-my-favorite-tools-for-managing-organizing-and-read/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/020-my-favorite-tools-for-managing-organizing-and-read/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My Running List of Gradio Features That Actually Matter</title>
-      <link>http://localhost:1313/writings/015-my-running-list-of-gradio-features-that-actually-m/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/015-my-running-list-of-gradio-features-that-actually-m/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Organizational Processes for Machine Learning Risk Management</title>
-      <link>http://localhost:1313/writings/026-organizational-processes-for-machine-learning-risk/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/026-organizational-processes-for-machine-learning-risk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming with Databases in Python using SQLite</title>
-      <link>http://localhost:1313/writings/044-programming-with-databases-in-python-using-sqlite/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/044-programming-with-databases-in-python-using-sqlite/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Publishing Is Powerful as It Serves as a Catalyst for Scope and Writing Decisions</title>
-      <link>http://localhost:1313/writings/011-publishing-is-powerful-as-it-serves-as-a-catalyst-/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/011-publishing-is-powerful-as-it-serves-as-a-catalyst-/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python&#39;s Collections Module — High-performance container data types</title>
-      <link>http://localhost:1313/writings/062-pythons-collections-module-high-performance-contai/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/062-pythons-collections-module-high-performance-contai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shapley summary plots: the latest addition to the H2O.ai&#39;s Explainability arsenal</title>
-      <link>http://localhost:1313/writings/033-shapley-summary-plots-the-latest-addition-to-the-h/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/033-shapley-summary-plots-the-latest-addition-to-the-h/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)</title>
-      <link>http://localhost:1313/writings/041-simplifying-sentiment-analysis-using-vader-in-pyth/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/041-simplifying-sentiment-analysis-using-vader-in-pyth/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Speed up your Data Analysis with Python&#39;s Datatable package</title>
-      <link>http://localhost:1313/writings/047-speed-up-your-data-analysis-with-pythons-datatable/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/047-speed-up-your-data-analysis-with-pythons-datatable/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SQL Interface within JupyterLab</title>
-      <link>http://localhost:1313/writings/045-sql-interface-within-jupyterlab/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/045-sql-interface-within-jupyterlab/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Understanding Decision Trees</title>
-      <link>http://localhost:1313/writings/063-understanding-decision-trees/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/063-understanding-decision-trees/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Use Colab more efficiently with these hacks</title>
-      <link>http://localhost:1313/writings/053-use-colab-more-efficiently-with-these-hacks/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/053-use-colab-more-efficiently-with-these-hacks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Useful pip commands for Data Science</title>
-      <link>http://localhost:1313/writings/057-useful-pip-commands-for-data-science/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/057-useful-pip-commands-for-data-science/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Useful String Methods in Python</title>
-      <link>http://localhost:1313/writings/059-useful-string-methods-in-python/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/059-useful-string-methods-in-python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Using Python&#39;s datatable library seamlessly on Kaggle</title>
-      <link>http://localhost:1313/writings/055-using-pythons-datatable-library-seamlessly-on-kagg/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/055-using-pythons-datatable-library-seamlessly-on-kagg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vegetation Index calculation from Satellite Imagery</title>
-      <link>http://localhost:1313/writings/037-vegetation-index-calculation-from-satellite-imager/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/037-vegetation-index-calculation-from-satellite-imager/</guid>
+      <title>Can Recommendations from LLMs be manipulated to enhance a product&#39;s visibility?</title>
+      <link>http://localhost:1313/writings/005-can-recommendations-from-llms-be-manipulated-to-en/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/005-can-recommendations-from-llms-be-manipulated-to-en/</guid>
       <description></description>
     </item>
     <item>
       <title>Visual Guides to understand the basics of Large Language Models</title>
       <link>http://localhost:1313/writings/006-visual-guides-to-understand-the-basics-of-large-la/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/006-visual-guides-to-understand-the-basics-of-large-la/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Visualizing India&#39;s Seismic activity</title>
-      <link>http://localhost:1313/writings/064-visualizing-indias-seismic-activity/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/064-visualizing-indias-seismic-activity/</guid>
       <description></description>
     </item>
     <item>
@@ -464,17 +100,108 @@
       <description></description>
     </item>
     <item>
+      <title>Insights into Llama 2 Development: Notes on Angela Fan&#39;s Lecture</title>
+      <link>http://localhost:1313/writings/007-insights-into-llama-2-development-notes-on-angela-/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/007-insights-into-llama-2-development-notes-on-angela-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diving Deeper into Stock Data Analysis with Python in Excel</title>
+      <link>http://localhost:1313/writings/046-diving-deeper-into-stock-data-analysis-with-python/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/046-diving-deeper-into-stock-data-analysis-with-python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bridging Domains: Infusing Financial, Privacy, and Software Best Practices into ML Risk Management</title>
+      <link>http://localhost:1313/writings/025-bridging-domains-infusing-financial-privacy-and-so/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/025-bridging-domains-infusing-financial-privacy-and-so/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Close Look at Colab&#39;s new updates and enhancements</title>
+      <link>http://localhost:1313/writings/016-a-close-look-at-colabs-new-updates-and-enhancement/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/016-a-close-look-at-colabs-new-updates-and-enhancement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organizational Processes for Machine Learning Risk Management</title>
+      <link>http://localhost:1313/writings/026-organizational-processes-for-machine-learning-risk/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/026-organizational-processes-for-machine-learning-risk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cultural Competencies for Machine Learning Risk Management</title>
+      <link>http://localhost:1313/writings/027-cultural-competencies-for-machine-learning-risk-ma/</link>
+      <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/027-cultural-competencies-for-machine-learning-risk-ma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explaining models built in H2O</title>
+      <link>http://localhost:1313/writings/028-explaining-models-built-in-h2o/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/028-explaining-models-built-in-h2o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How effective is Google&#39;s Bold and Responsible Approach to AI?</title>
+      <link>http://localhost:1313/writings/029-how-effective-is-googles-bold-and-responsible-appr/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/029-how-effective-is-googles-bold-and-responsible-appr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exploring the Vulnerability of Language Models to Poisoning Attacks</title>
+      <link>http://localhost:1313/writings/030-exploring-the-vulnerability-of-language-models-to-/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/030-exploring-the-vulnerability-of-language-models-to-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Effortless Fine-Tuning of Large Language Models with Open-Source H2O LLM Studio</title>
+      <link>http://localhost:1313/writings/043-effortless-fine-tuning-of-large-language-models-wi/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/043-effortless-fine-tuning-of-large-language-models-wi/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Writing a book on NLP is a bit like solving a complex data science project</title>
       <link>http://localhost:1313/writings/012-writing-a-book-on-nlp-is-a-bit-like-solving-a-comp/</link>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/012-writing-a-book-on-nlp-is-a-bit-like-solving-a-comp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publishing Is Powerful as It Serves as a Catalyst for Scope and Writing Decisions</title>
+      <link>http://localhost:1313/writings/011-publishing-is-powerful-as-it-serves-as-a-catalyst-/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/011-publishing-is-powerful-as-it-serves-as-a-catalyst-/</guid>
       <description></description>
     </item>
     <item>
       <title>You do not become better by employing fancy techniques but by working on the fundamentals</title>
       <link>http://localhost:1313/writings/010-you-do-not-become-better-by-employing-fancy-techni/</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/010-you-do-not-become-better-by-employing-fancy-techni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interactive Geographical maps with GeoPandas</title>
+      <link>http://localhost:1313/writings/065-interactive-geographical-maps-with-geopandas/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/065-interactive-geographical-maps-with-geopandas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My favorite tools for managing, organizing, and reading research papers</title>
+      <link>http://localhost:1313/writings/020-my-favorite-tools-for-managing-organizing-and-read/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/020-my-favorite-tools-for-managing-organizing-and-read/</guid>
       <description></description>
     </item>
     <item>
@@ -482,6 +209,272 @@
       <link>http://localhost:1313/writings/009-dont-just-take-notes-turn-them-into-articles-and-s/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/009-dont-just-take-notes-turn-them-into-articles-and-s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analysis of Emotion Data: A Dataset for Emotion Recognition Tasks</title>
+      <link>http://localhost:1313/writings/039-analysis-of-emotion-data-a-dataset-for-emotion-rec/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/039-analysis-of-emotion-data-a-dataset-for-emotion-rec/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Tour of 10 Useful Github Features</title>
+      <link>http://localhost:1313/writings/017-a-tour-of-10-useful-github-features/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/017-a-tour-of-10-useful-github-features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualizing India&#39;s Seismic activity</title>
+      <link>http://localhost:1313/writings/064-visualizing-indias-seismic-activity/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/064-visualizing-indias-seismic-activity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Building a compelling Data Science Portfolio with writing</title>
+      <link>http://localhost:1313/writings/019-building-a-compelling-data-science-portfolio-with-/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/019-building-a-compelling-data-science-portfolio-with-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automate your data science project structure in three easy steps</title>
+      <link>http://localhost:1313/writings/018-automate-your-data-science-project-structure-in-th/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/018-automate-your-data-science-project-structure-in-th/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interpretable or Accurate? Why not both?</title>
+      <link>http://localhost:1313/writings/032-interpretable-or-accurate-why-not-both/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/032-interpretable-or-accurate-why-not-both/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Use Colab more efficiently with these hacks</title>
+      <link>http://localhost:1313/writings/053-use-colab-more-efficiently-with-these-hacks/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/053-use-colab-more-efficiently-with-these-hacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shapley summary plots: the latest addition to the H2O.ai&#39;s Explainability arsenal</title>
+      <link>http://localhost:1313/writings/033-shapley-summary-plots-the-latest-addition-to-the-h/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/033-shapley-summary-plots-the-latest-addition-to-the-h/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>H2O AI Hybrid Cloud: Democratizing AI for every person and every organization</title>
+      <link>http://localhost:1313/writings/022-h2o-ai-hybrid-cloud-democratizing-ai-for-every-per/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/022-h2o-ai-hybrid-cloud-democratizing-ai-for-every-per/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Useful pip commands for Data Science</title>
+      <link>http://localhost:1313/writings/057-useful-pip-commands-for-data-science/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/057-useful-pip-commands-for-data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enabling notifications in your Jupyter notebooks for cell completion</title>
+      <link>http://localhost:1313/writings/054-enabling-notifications-in-your-jupyter-notebooks-f/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/054-enabling-notifications-in-your-jupyter-notebooks-f/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Using Python&#39;s datatable library seamlessly on Kaggle</title>
+      <link>http://localhost:1313/writings/055-using-pythons-datatable-library-seamlessly-on-kagg/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/055-using-pythons-datatable-library-seamlessly-on-kagg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Five wonderful uses of &#39;f- Strings&#39; in Python</title>
+      <link>http://localhost:1313/writings/052-five-wonderful-uses-of-f-strings-in-python/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/052-five-wonderful-uses-of-f-strings-in-python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automate your Model Documentation using H2O AutoDoc</title>
+      <link>http://localhost:1313/writings/023-automate-your-model-documentation-using-h2o-autodo/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/023-automate-your-model-documentation-using-h2o-autodo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Increasing the amount and diversity of data using scikit-image in Python</title>
+      <link>http://localhost:1313/writings/035-increasing-the-amount-and-diversity-of-data-using-/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/035-increasing-the-amount-and-diversity-of-data-using-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Free hands-on tutorials to get started in Natural Language Processing</title>
+      <link>http://localhost:1313/writings/042-free-hands-on-tutorials-to-get-started-in-natural-/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/042-free-hands-on-tutorials-to-get-started-in-natural-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alternative Python libraries for Data Science</title>
+      <link>http://localhost:1313/writings/048-alternative-python-libraries-for-data-science/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/048-alternative-python-libraries-for-data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Creating custom image datasets for Deep Learning projects</title>
+      <link>http://localhost:1313/writings/036-creating-custom-image-datasets-for-deep-learning-p/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/036-creating-custom-image-datasets-for-deep-learning-p/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speed up your Data Analysis with Python&#39;s Datatable package</title>
+      <link>http://localhost:1313/writings/047-speed-up-your-data-analysis-with-pythons-datatable/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/047-speed-up-your-data-analysis-with-pythons-datatable/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vegetation Index calculation from Satellite Imagery</title>
+      <link>http://localhost:1313/writings/037-vegetation-index-calculation-from-satellite-imager/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/037-vegetation-index-calculation-from-satellite-imager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How to effectively employ an AI strategy in your business</title>
+      <link>http://localhost:1313/writings/066-how-to-effectively-employ-an-ai-strategy-in-your-b/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/066-how-to-effectively-employ-an-ai-strategy-in-your-b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Getting more value from the Pandas&#39; value_counts()</title>
+      <link>http://localhost:1313/writings/058-getting-more-value-from-the-pandas-value_counts/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/058-getting-more-value-from-the-pandas-value_counts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Deep dive into H2O&#39;s AutoML</title>
+      <link>http://localhost:1313/writings/024-a-deep-dive-into-h2os-automl/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/024-a-deep-dive-into-h2os-automl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL Interface within JupyterLab</title>
+      <link>http://localhost:1313/writings/045-sql-interface-within-jupyterlab/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/045-sql-interface-within-jupyterlab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Useful String Methods in Python</title>
+      <link>http://localhost:1313/writings/059-useful-string-methods-in-python/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/059-useful-string-methods-in-python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elements of Functional Programming in Python</title>
+      <link>http://localhost:1313/writings/060-elements-of-functional-programming-in-python/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/060-elements-of-functional-programming-in-python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Basics of BASH for Beginners</title>
+      <link>http://localhost:1313/writings/056-basics-of-bash-for-beginners/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/056-basics-of-bash-for-beginners/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI for Everyone: Myth or Reality?</title>
+      <link>http://localhost:1313/writings/067-ai-for-everyone-myth-or-reality/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/067-ai-for-everyone-myth-or-reality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>An Overview of Python&#39;s Datatable package</title>
+      <link>http://localhost:1313/writings/061-an-overview-of-pythons-datatable-package/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/061-an-overview-of-pythons-datatable-package/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interpretable Machine Learning</title>
+      <link>http://localhost:1313/writings/034-interpretable-machine-learning/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/034-interpretable-machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python&#39;s Collections Module — High-performance container data types</title>
+      <link>http://localhost:1313/writings/062-pythons-collections-module-high-performance-contai/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/062-pythons-collections-module-high-performance-contai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Face Detection with Python using OpenCV</title>
+      <link>http://localhost:1313/writings/038-face-detection-with-python-using-opencv/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/038-face-detection-with-python-using-opencv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Building a Simple Chatbot from Scratch in Python (using NLTK)</title>
+      <link>http://localhost:1313/writings/040-building-a-simple-chatbot-from-scratch-in-python-u/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/040-building-a-simple-chatbot-from-scratch-in-python-u/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Demystifying Neural Networks: A Mathematical Approach (Part 2)</title>
+      <link>http://localhost:1313/writings/050-demystifying-neural-networks-a-mathematical-approa/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/050-demystifying-neural-networks-a-mathematical-approa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Demystifying Neural Networks: A Mathematical Approach (Part 1)</title>
+      <link>http://localhost:1313/writings/049-demystifying-neural-networks-a-mathematical-approa/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/049-demystifying-neural-networks-a-mathematical-approa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)</title>
+      <link>http://localhost:1313/writings/041-simplifying-sentiment-analysis-using-vader-in-pyth/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/041-simplifying-sentiment-analysis-using-vader-in-pyth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming with Databases in Python using SQLite</title>
+      <link>http://localhost:1313/writings/044-programming-with-databases-in-python-using-sqlite/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/044-programming-with-databases-in-python-using-sqlite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understanding Decision Trees</title>
+      <link>http://localhost:1313/writings/063-understanding-decision-trees/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/063-understanding-decision-trees/</guid>
       <description></description>
     </item>
   </channel>
