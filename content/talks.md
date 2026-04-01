@@ -6,6 +6,7 @@ title: "Talks"
 
 | Talk | Venue | Year |
 |------|-------|------|
+| [PyConf Hyderabad 2026](https://2026.pyconfhyd.org/speakers/parul-pandey) | PyConf Hyderabad | 2026 |
 | Data Science in the Age of LLMs : IIT Guwahati | Seminar | 2025 |
 | [Building, learning & Teaching with AI](https://www.youtube.com/watch?v=Lqxu63bEdt0) | Podcast | 2025 |
 | [AI Explained: Machine Learning for High Risk Applications](https://www.fiddler.ai/webinars/ai-explained-machine-learning-for-high-risk-applications) | Fiddler.ai | 2023 |
