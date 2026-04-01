@@ -61,7 +61,7 @@ googleAnalytics = "G-NRQ9GNDVH4"
     weight = 4
   [[menu.main]]
     name = "Courses"
-    url = "https://parulnith.github.io/courses/"
+    url = "/courses/"
     weight = 5
 
 [markup]
