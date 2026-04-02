@@ -44,4 +44,12 @@ hackathons:
     link: "https://www.kaggle.com/competitions/banana/writeups/connected-canvas-from-video-calls-to-timeless-fami"
     link_text: "Read Writeup"
     image: ""
+
+  - title: "ShikshAIk — Multimodal Hindi Tutor"
+    award_color: "blue"
+    event: "Google DeepMind — Vibe Code with Gemini 3 Pro"
+    description: "A multimodal Hindi tutor built with Gemini 3 Pro in AI Studio. Designed to make learning accessible in Hindi through voice, text, and visual inputs."
+    link: "https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765049032583"
+    link_text: "Read Writeup"
+    image: ""
 ---
