@@ -30,7 +30,6 @@ hackathons:
     image: ""
 
   - title: "ASHA-G — Health Record Digitizer"
-    award: "Finalist"
     award_color: "blue"
     event: "Google Gemma 3n Hackathon"
     description: "Offline tool for rural India. A health worker photographs a paper form, fields are detected automatically, Hindi speech is transcribed, and the record is saved as a CSV."
@@ -39,7 +38,6 @@ hackathons:
     image: ""
 
   - title: "Connected Canvas"
-    award: "Finalist"
     award_color: "blue"
     event: "Nano Banana / Gemini 2.5 Flash"
     description: "Turns screenshots and video call frames into warm family portraits. Cleans the image, adjusts color, and produces a styled picture fit for printing."
