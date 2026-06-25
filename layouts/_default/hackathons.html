@@ -4,8 +4,8 @@
   .hackathon-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 24px;
-    margin-top: 40px;
+    gap: 18px;
+    margin-top: 32px;
   }
 
   @media (max-width: 680px) {
@@ -16,41 +16,21 @@
 
   .hackathon-card {
     border: 1px solid #e2e8f0;
-    border-radius: 12px;
-    overflow: hidden;
+    border-radius: 10px;
     display: flex;
     flex-direction: column;
-    transition: box-shadow 0.2s ease, transform 0.2s ease;
+    background: var(--entry);
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
   }
 
   .hackathon-card:hover {
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    border-color: #cbd5e1;
+    box-shadow: 0 8px 20px rgba(15, 23, 42, 0.06);
     transform: translateY(-2px);
   }
 
-  .hackathon-image {
-    width: 100%;
-    height: 180px;
-    object-fit: cover;
-    display: block;
-  }
-
-  .hackathon-placeholder {
-    width: 100%;
-    height: 180px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 32px;
-    opacity: 0.5;
-  }
-
-  .placeholder-gold    { background: linear-gradient(135deg, #fef3c7, #fde68a); }
-  .placeholder-purple  { background: linear-gradient(135deg, #ede9fe, #ddd6fe); }
-  .placeholder-blue    { background: linear-gradient(135deg, #dbeafe, #bfdbfe); }
-
   .hackathon-body {
-    padding: 20px;
+    padding: 18px 20px 20px;
     display: flex;
     flex-direction: column;
     flex: 1;
@@ -71,6 +51,10 @@
     text-transform: uppercase;
     padding: 3px 10px;
     border-radius: 99px;
+  }
+
+  .hackathon-badge:empty {
+    display: none;
   }
 
   .badge-gold   { background: #fef3c7; color: #92400e; }
@@ -106,7 +90,7 @@
     text-decoration: none;
     border: 1.5px solid #e2e8f0;
     padding: 7px 16px;
-    border-radius: 8px;
+    border-radius: 7px;
     transition: background 0.15s ease, border-color 0.15s ease;
   }
 
@@ -138,17 +122,6 @@
     <div class="hackathon-grid">
       {{- range .Params.hackathons }}
       <div class="hackathon-card">
-
-        {{- if .image }}
-        <img class="hackathon-image" src="{{ .image }}" alt="{{ .title }}">
-        {{- else }}
-        <div class="hackathon-placeholder placeholder-{{ .award_color }}">
-          {{- if eq .award_color "gold" }}🏆
-          {{- else if eq .award_color "purple" }}🤝
-          {{- else }}🚀
-          {{- end }}
-        </div>
-        {{- end }}
 
         <div class="hackathon-body">
           <div class="hackathon-meta">
