@@ -115,6 +115,12 @@
     border-color: #cbd5e1;
   }
 
+  .hackathon-links {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
   .page-intro {
     color: #64748b;
     font-size: 15px;
@@ -151,9 +157,16 @@
           </div>
           <h2 class="hackathon-title">{{ .title }}</h2>
           <p class="hackathon-desc">{{ .description }}</p>
-          <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="hackathon-link">
-            {{ .link_text }} →
-          </a>
+          <div class="hackathon-links">
+            <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="hackathon-link">
+              {{ .link_text }} →
+            </a>
+            {{- if .youtube }}
+            <a href="{{ .youtube }}" target="_blank" rel="noopener noreferrer" class="hackathon-link">
+              ▶ Watch Demo
+            </a>
+            {{- end }}
+          </div>
         </div>
 
       </div>

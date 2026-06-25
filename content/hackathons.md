@@ -35,6 +35,7 @@ hackathons:
     description: "Offline tool for rural India. A health worker photographs a paper form, fields are detected automatically, Hindi speech is transcribed, and the record is saved as a CSV."
     link: "https://www.kaggle.com/competitions/google-gemma-3n-hackathon/writeups/ai-in-rural-india-digitizing-health-records-for-as"
     link_text: "Read Writeup"
+    youtube: "https://www.youtube.com/watch?v=m6VapEXslz8&t=3s"
     image: ""
 
   - title: "Connected Canvas"
