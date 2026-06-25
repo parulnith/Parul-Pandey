@@ -5,144 +5,75 @@
     max-width: 860px;
   }
 
-  .hackathon-list {
-    margin-top: 30px;
+  .hackathon-table {
+    margin-top: 0;
   }
 
-  .hackathon-item {
-    display: grid;
-    grid-template-columns: 96px minmax(0, 1fr) auto;
-    gap: 18px;
-    align-items: baseline;
-    padding: 15px 0;
-    border-bottom: 1px solid var(--border);
+  .hackathon-project {
+    font-weight: 500;
   }
 
-  .hackathon-item:first-child {
-    border-top: 1px solid var(--border);
-  }
-
-  @media (max-width: 680px) {
-    .hackathon-item {
-      grid-template-columns: 1fr;
-      gap: 8px;
-    }
-  }
-
-  .hackathon-type {
-    width: fit-content;
-    font-size: 11px;
-    font-weight: 650;
-    line-height: 1;
-    color: var(--secondary);
-    border: 1px solid var(--border);
-    border-radius: 999px;
-    padding: 5px 9px;
-    white-space: nowrap;
-  }
-
-  .hackathon-main {
-    min-width: 0;
-  }
-
-  .hackathon-title-row {
-    display: flex;
-    align-items: baseline;
-    column-gap: 10px;
-    row-gap: 3px;
-    flex-wrap: wrap;
-    margin-bottom: 3px;
-  }
-
-  .hackathon-title {
-    font-size: 16px;
-    font-weight: 600;
-    line-height: 1.35;
-    margin: 0;
-    color: var(--primary);
-  }
-
-  .hackathon-badge {
-    font-size: 12px;
-    font-weight: 600;
+  .hackathon-award {
     color: #2563eb;
+    font-size: 0.9em;
     white-space: nowrap;
-  }
-
-  .hackathon-meta {
-    display: block;
-    font-size: 13px;
-    color: var(--secondary);
-    line-height: 1.45;
   }
 
   .hackathon-links {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    gap: 12px;
-    flex-wrap: wrap;
     white-space: nowrap;
   }
 
+  .hackathon-links a {
+    margin-right: 10px;
+  }
+
+  .hackathon-links a:last-child {
+    margin-right: 0;
+  }
+
   @media (max-width: 680px) {
-    .hackathon-links {
-      justify-content: flex-start;
+    .hackathon-table {
+      font-size: 14px;
     }
-  }
-
-  .hackathon-link {
-    font-size: 13px;
-    font-weight: 600;
-    color: #2563eb;
-    text-decoration: none;
-  }
-
-  .hackathon-link:hover {
-    text-decoration: underline;
-  }
-
-  .page-intro {
-    color: #64748b;
-    font-size: 15px;
-    margin-top: 8px;
-    max-width: 620px;
   }
 </style>
 
 <article class="post-single hackathon-wrap">
   <header class="post-header">
-    <h1 class="post-title">Selected Projects & Hackathons</h1>
-    <p class="page-intro">Competition projects, prototypes, and applied AI demos, with links to notebooks, writeups, and demos.</p>
+    <h1 class="post-title">{{ .Title }}</h1>
   </header>
 
   <div class="post-content">
-    <div class="hackathon-list">
+    <table class="hackathon-table">
+      <thead>
+        <tr>
+          <th>Project</th>
+          <th>Event</th>
+          <th>Year</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody>
       {{- range .Params.hackathons }}
-      <section class="hackathon-item">
-        <span class="hackathon-type">{{ .type }}</span>
-        <div class="hackathon-main">
-          <div class="hackathon-title-row">
-            <h2 class="hackathon-title">{{ .title }}</h2>
+        <tr>
+          <td>
+            <span class="hackathon-project">{{ .title }}</span>
             {{- with .award }}
-            <span class="hackathon-badge">{{ . }}</span>
+            <br><span class="hackathon-award">{{ . }}</span>
             {{- end }}
-          </div>
-          <span class="hackathon-meta">{{ .event }}{{ with .year }} · {{ . }}{{ end }}</span>
-        </div>
-        <div class="hackathon-links">
-          <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="hackathon-link">
-            {{ .link_text }} →
-          </a>
-          {{- if .youtube }}
-          <a href="{{ .youtube }}" target="_blank" rel="noopener noreferrer" class="hackathon-link">
-            Demo →
-          </a>
-          {{- end }}
-        </div>
-      </section>
+          </td>
+          <td>{{ .event }}</td>
+          <td>{{ .year }}</td>
+          <td class="hackathon-links">
+            <a href="{{ .link }}" target="_blank" rel="noopener noreferrer">{{ .link_text }}</a>
+            {{- if .youtube }}
+            <a href="{{ .youtube }}" target="_blank" rel="noopener noreferrer">Demo</a>
+            {{- end }}
+          </td>
+        </tr>
       {{- end }}
-    </div>
+      </tbody>
+    </table>
   </div>
 </article>
 
