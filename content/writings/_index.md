@@ -1,6 +1,5 @@
 ---
 title: "Writings"
-description: "Technical articles by Parul Pandey on data science, machine learning, LLMs, responsible AI, Python, notebooks, and developer tools."
 ---
 
 I mainly write on [Medium](https://pandeyparul.medium.com/) and maintain a healthy blog there. However, in the past I have also written for a number of other publications like KD Nuggets, Datacamp, Anaconda Built-in among others. I also wrote a piece on [Shap values](https://developer.nvidia.com/blog/explain-your-machine-learning-model-predictions-with-gpu-accelerated-shap/?ncid=so-link-828764-vt27&=&linkId=100000153561822#entry-content-comments) for NVIDIA AI.

@@ -1,6 +1,5 @@
 ---
 title: "Home"
-description: "Parul Pandey creates AI education, developer relations programs, data science writing, courses, workshops, and hands-on projects around machine learning and LLMs."
 book:
   image: "/images/book-cover-up.png"
   title: "Machine Learning for High-Risk Applications"

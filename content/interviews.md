@@ -1,6 +1,5 @@
 ---
 title: "Interviews"
-description: "Interviews and profiles featuring Parul Pandey on data science careers, community, Kaggle, machine learning, blogging, and leadership."
 ---
 
 Here are some of my interviews:
