@@ -1,5 +1,7 @@
 ---
 title: "Interviews"
+hideMeta: true
+ShowBreadCrumbs: false
 ---
 
 Here are some of my interviews:

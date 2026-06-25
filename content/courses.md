@@ -1,5 +1,7 @@
 ---
 title: "Courses"
+hideMeta: true
+ShowBreadCrumbs: false
 
 ---
 

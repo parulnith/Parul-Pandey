@@ -1,6 +1,7 @@
 ---
 title: "Talks"
-description: "Talks, workshops, webinars, podcasts, and conference sessions by Parul Pandey on AI, machine learning, data science, responsible AI, and community learning."
+hideMeta: true
+ShowBreadCrumbs: false
 ---
 
 ## Speaking Engagements
