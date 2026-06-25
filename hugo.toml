@@ -71,29 +71,33 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 1
+    weight = 2
   [[menu.main]]
     name = "Writings"
     url = "/writings/"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "Talks"
     url = "/talks/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Interviews"
     url = "/interviews/"
-    weight = 4
+    weight = 5
   [[menu.main]]
     name = "Hackathons"
     url = "/hackathons/"
-    weight = 5
+    weight = 6
   [[menu.main]]
     name = "Courses"
     url = "/courses/"
-    weight = 6
+    weight = 7
 
 [markup]
   [markup.goldmark]
