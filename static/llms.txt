@@ -7,7 +7,6 @@ Parul started as a data scientist and now focuses on making AI and machine learn
 ## Core Pages
 
 - [Home](https://parulpandey.com/): Overview of Parul Pandey's work across AI education, developer relations, data science, courses, writing, and projects.
-- [About](https://parulpandey.com/about/): Background, roles, Kaggle Grandmaster details, responsible computing work, and book information.
 - [Writings](https://parulpandey.com/writings/): Technical articles on data science, machine learning, LLMs, responsible AI, Python, notebooks, and developer tools.
 - [Courses](https://parulpandey.com/courses/): Courses and learning experiences, including LinkedIn Learning and O'Reilly Live Learning.
 - [Hackathons](https://parulpandey.com/hackathons/): Competition and prototype projects, including Kaggle notebooks and applied AI demos.

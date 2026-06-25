@@ -1,7 +1,6 @@
 ---
 title: "Talks"
 hideMeta: true
-ShowBreadCrumbs: false
 ---
 
 ## Speaking Engagements
