@@ -2,3 +2,6 @@
 public/
 resources/
 images/
+!static/images/
+!static/images/courses/
+!static/images/courses/**

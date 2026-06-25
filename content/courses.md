@@ -17,4 +17,14 @@ Courses I'm creating to help practitioners build with AI and ML.
     </div>
   </a>
 
+  <a class="course-card" href="https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpractical-llms-for-modern-data-science%3Ftrk%3Dshare_ent_url%26shareId%3DvmR8qaAKQtiJNxGgbzLEMQ%253D%253D" target="_blank" rel="noopener">
+    <img class="course-card-img" src="/images/courses/practical-llms-linkedin.png" alt="Practical LLMs for Modern Data Science">
+    <div class="course-card-body">
+      <span class="course-platform">LinkedIn Learning</span>
+      <h3>Practical LLMs for Modern Data Science</h3>
+      <p>Learn how to use LLMs as practical assistants for everyday data science tasks, from exploration and preprocessing to modeling, evaluation, and reusable code helpers.</p>
+      <span class="course-cta">View Course →</span>
+    </div>
+  </a>
+
 </div>
