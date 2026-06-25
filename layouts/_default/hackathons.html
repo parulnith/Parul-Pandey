@@ -1,24 +1,44 @@
 {{ define "main" }}
 
 <style>
+  .hackathon-wrap {
+    max-width: 860px;
+  }
+
   .hackathon-list {
-    margin-top: 28px;
-    border-top: 1px solid var(--border);
+    margin-top: 30px;
   }
 
   .hackathon-item {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-columns: 96px minmax(0, 1fr) auto;
     gap: 18px;
-    padding: 18px 0;
+    align-items: baseline;
+    padding: 15px 0;
     border-bottom: 1px solid var(--border);
+  }
+
+  .hackathon-item:first-child {
+    border-top: 1px solid var(--border);
   }
 
   @media (max-width: 680px) {
     .hackathon-item {
       grid-template-columns: 1fr;
-      gap: 12px;
+      gap: 8px;
     }
+  }
+
+  .hackathon-type {
+    width: fit-content;
+    font-size: 11px;
+    font-weight: 650;
+    line-height: 1;
+    color: var(--secondary);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 5px 9px;
+    white-space: nowrap;
   }
 
   .hackathon-main {
@@ -28,38 +48,41 @@
   .hackathon-title-row {
     display: flex;
     align-items: baseline;
-    gap: 10px;
+    column-gap: 10px;
+    row-gap: 3px;
     flex-wrap: wrap;
-    margin-bottom: 4px;
+    margin-bottom: 3px;
   }
 
   .hackathon-title {
     font-size: 16px;
-    font-weight: 650;
+    font-weight: 600;
     line-height: 1.35;
     margin: 0;
     color: var(--primary);
   }
 
   .hackathon-badge {
-    font-size: 11px;
-    font-weight: 650;
+    font-size: 12px;
+    font-weight: 600;
     color: #2563eb;
     white-space: nowrap;
   }
 
-  .hackathon-event {
+  .hackathon-meta {
     display: block;
     font-size: 13px;
     color: var(--secondary);
+    line-height: 1.45;
   }
 
   .hackathon-links {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    gap: 10px;
+    gap: 12px;
     flex-wrap: wrap;
+    white-space: nowrap;
   }
 
   @media (max-width: 680px) {
@@ -83,19 +106,21 @@
     color: #64748b;
     font-size: 15px;
     margin-top: 8px;
+    max-width: 620px;
   }
 </style>
 
-<article class="post-single">
+<article class="post-single hackathon-wrap">
   <header class="post-header">
-    <h1 class="post-title">{{ .Title }}</h1>
-    <p class="page-intro">Projects I built for competitions — with outcomes and links to the work.</p>
+    <h1 class="post-title">Selected Projects & Hackathons</h1>
+    <p class="page-intro">Competition projects, prototypes, and applied AI demos, with links to notebooks, writeups, and demos.</p>
   </header>
 
   <div class="post-content">
     <div class="hackathon-list">
       {{- range .Params.hackathons }}
       <section class="hackathon-item">
+        <span class="hackathon-type">{{ .type }}</span>
         <div class="hackathon-main">
           <div class="hackathon-title-row">
             <h2 class="hackathon-title">{{ .title }}</h2>
@@ -103,7 +128,7 @@
             <span class="hackathon-badge">{{ . }}</span>
             {{- end }}
           </div>
-          <span class="hackathon-event">{{ .event }}</span>
+          <span class="hackathon-meta">{{ .event }}{{ with .year }} · {{ . }}{{ end }}</span>
         </div>
         <div class="hackathon-links">
           <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="hackathon-link">

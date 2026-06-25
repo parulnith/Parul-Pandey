@@ -26,6 +26,7 @@ sections:
 
 Hi, I'm Parul. I started out as a data scientist, but education gradually became the part of the job I enjoy the most. Today, I work across AI education and developer relations, creating technical content, courses, workshops, and hands-on projects while partnering with companies on developer programs, community initiatives, and other DevRel efforts.
 
+
 I've worked at H2O.ai as a Principal Data Scientist and at Weights & Biases as a Machine Learning Engineer. I co-authored the O'Reilly book Machine Learning for High-Risk Applications, have delivered workshops through O'Reilly, created a LinkedIn Learning course on effectively using LLMs in data science workflows, and maintain a healthy technical blog. I speak at conferences, mentor community programs, and regularly contribute to open-source projects and technical writing.
 
 You can explore my [writing](/writings/), [courses](/courses/), [hackathon projects](/hackathons/), or read a fuller [about page](/about/).
