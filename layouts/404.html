@@ -1,0 +1,36 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Page not found</h1>
+  </header>
+
+  <div class="post-content">
+    <p>This page may have moved, or the link may be outdated. Here are the most useful places to continue:</p>
+
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/writings/">Writings</a></li>
+      <li><a href="/courses/">Courses</a></li>
+      <li><a href="/hackathons/">Hackathons</a></li>
+      <li><a href="/talks/">Talks</a></li>
+    </ul>
+
+    <p>If you were looking for an article, most of my writing also lives on <a href="https://medium.com/@pandeyparul">Medium</a>.</p>
+  </div>
+</article>
+
+<script>
+  window.addEventListener("load", function () {
+    if (typeof gtag === "function") {
+      gtag("event", "page_not_found", {
+        page_path: window.location.pathname,
+        page_location: window.location.href,
+        page_referrer: document.referrer
+      });
+    }
+  });
+</script>
+
+{{- end }}

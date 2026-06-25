@@ -1,0 +1,54 @@
+# Parul Pandey
+
+> Parul Pandey works at the intersection of AI education, developer relations, and data science. The site collects her technical writing, courses, talks, workshops, hackathon projects, book work, and community contributions.
+
+Parul started as a data scientist and now focuses on making AI and machine learning easier to learn and apply. Her work includes technical content, LinkedIn Learning and O'Reilly courses, workshops, hands-on AI projects, responsible AI writing, and developer/community programs.
+
+## Core Pages
+
+- [Home](https://parulpandey.com/): Overview of Parul Pandey's work across AI education, developer relations, data science, courses, writing, and projects.
+- [About](https://parulpandey.com/about/): Background, roles, Kaggle Grandmaster details, responsible computing work, and book information.
+- [Writings](https://parulpandey.com/writings/): Technical articles on data science, machine learning, LLMs, responsible AI, Python, notebooks, and developer tools.
+- [Courses](https://parulpandey.com/courses/): Courses and learning experiences, including LinkedIn Learning and O'Reilly Live Learning.
+- [Hackathons](https://parulpandey.com/hackathons/): Competition and prototype projects, including Kaggle notebooks and applied AI demos.
+- [Talks](https://parulpandey.com/talks/): Conference talks, webinars, podcasts, and workshops.
+- [Interviews](https://parulpandey.com/interviews/): Interviews and external profiles.
+
+## Notable Work
+
+- [Machine Learning for High-Risk Applications](https://www.oreilly.com/library/view/machine-learning-for/9781098102425/cover.html): O'Reilly book co-authored by Parul Pandey, Patrick Hall, and James Curtis.
+- [Practical LLMs for Modern Data Science](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpractical-llms-for-modern-data-science%3Ftrk%3Dshare_ent_url%26shareId%3DvmR8qaAKQtiJNxGgbzLEMQ%253D%253D): LinkedIn Learning course on using LLMs effectively in data science workflows.
+- [Marimo for AI and ML Development](https://www.oreilly.com/live/marimo-for-ai-and-ml-development.html): O'Reilly Live Learning course on using marimo for AI and ML workflows.
+- [Kaggle profile](https://www.kaggle.com/parulpandey): Kaggle Grandmaster profile and notebooks.
+
+## Recent Articles
+
+- [Can This Model Run on my Phone?](https://medium.com/@pandeyparul/can-this-model-run-on-my-phone-f549353695b8?sharedUserId=pandeyparul): Article about understanding whether AI models can run on mobile devices.
+- [The Conversation Around Tabular Data Is Back. The Tables Are Still Messy](https://medium.com/@pandeyparul/the-conversation-around-tabular-data-is-back-the-tables-are-still-messy-09d1eae5672b?sk=fc6727490165d3f6394504fed333e4bc): Article about tabular data, messy real-world tables, and the renewed interest in tabular workflows.
+- [Three Ways in Which Ollama Makes Trying New Models Much Easier Now](https://medium.com/@pandeyparul/three-ways-in-which-ollama-makes-trying-new-models-much-easier-now-a089d0ec18f7?sk=0bd54aefc221b0b55dd3072e2b20ce98): Article about model exploration with Ollama.
+
+## Topics
+
+- AI education
+- Developer relations
+- Data science
+- Machine learning
+- Large language models
+- Responsible AI
+- Python
+- Technical writing
+- Kaggle notebooks
+- AI workshops and courses
+
+## Profiles
+
+- [LinkedIn](https://linkedin.com/in/parulpandeyindia)
+- [Medium](https://medium.com/@pandeyparul)
+- [GitHub](https://github.com/parulnith)
+- [Kaggle](https://www.kaggle.com/parulpandey)
+- [X](https://x.com/pandeyparul)
+
+## Machine-Readable Discovery
+
+- [Sitemap](https://parulpandey.com/sitemap.xml): Complete indexable URL list.
+- [Robots](https://parulpandey.com/robots.txt): Crawler access guidance.

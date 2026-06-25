@@ -3,14 +3,28 @@ languageCode = 'en-us'
 title = 'Parul Pandey'
 theme = 'PaperMod'
 googleAnalytics = "G-NRQ9GNDVH4"
+enableRobotsTXT = true
 
 
 [pagination]
   pagerSize = 10
 
 [params]
-  description = "Data Scientist • Author • Speaker"
+  title = "Parul Pandey"
+  description = "Parul Pandey works at the intersection of AI education, developer relations, and data science, creating technical writing, courses, workshops, and hands-on AI and ML projects."
   author = "Parul Pandey"
+  keywords = [
+    "Parul Pandey",
+    "AI education",
+    "developer relations",
+    "data science",
+    "machine learning",
+    "large language models",
+    "LLMs",
+    "technical writing",
+    "Kaggle Grandmaster",
+    "responsible AI"
+  ]
 
   # PaperMod specific settings
   ShowReadingTime = false
@@ -42,27 +56,44 @@ googleAnalytics = "G-NRQ9GNDVH4"
     name = "kaggle"
     url = "https://www.kaggle.com/parulpandey"
 
+  [params.assets]
+    favicon = "/images/profile-pic.png"
+
+  [params.schema]
+    publisherType = "Person"
+    sameAs = [
+      "https://linkedin.com/in/parulpandeyindia",
+      "https://x.com/pandeyparul",
+      "https://medium.com/@pandeyparul",
+      "https://github.com/parulnith",
+      "https://www.kaggle.com/parulpandey"
+    ]
+
 [menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
   [[menu.main]]
     name = "Writings"
     url = "/writings/"
-    weight = 1
+    weight = 2
   [[menu.main]]
     name = "Talks"
     url = "/talks/"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "Interviews"
     url = "/interviews/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Hackathons"
     url = "/hackathons/"
-    weight = 4
+    weight = 5
   [[menu.main]]
     name = "Courses"
     url = "/courses/"
-    weight = 5
+    weight = 6
 
 [markup]
   [markup.goldmark]

@@ -1,5 +1,6 @@
 ---
 title: "Home"
+description: "Parul Pandey creates AI education, developer relations programs, data science writing, courses, workshops, and hands-on projects around machine learning and LLMs."
 book:
   image: "/images/book-cover-up.png"
   title: "Machine Learning for High-Risk Applications"
@@ -23,6 +24,8 @@ sections:
     image: "/images/ethics-section.png"
 ---
 
-Hi, I'm Parul. I combine data science and developer advocacy to make machine learning accessible, responsible, and useful for real teams and communities. I've worked at H2O.ai (Principal Data Scientist) and Weights & Biases (Machine Learning Engineer). I co-authored an O'Reilly book titled Machine Learning for High-Risk Applications and regularly contribute to open-source projects and technical writing. I speak at conferences, mentor community programs, and write regularly. 
+Hi, I'm Parul. I started out as a data scientist, but education gradually became the part of the job I enjoy the most. Today, I work across AI education and developer relations, creating technical content, courses, workshops, and hands-on projects while partnering with companies on developer programs, community initiatives, and other DevRel efforts.
 
+I've worked at H2O.ai as a Principal Data Scientist and at Weights & Biases as a Machine Learning Engineer. I co-authored the O'Reilly book Machine Learning for High-Risk Applications, have delivered workshops through O'Reilly, created a LinkedIn Learning course on effectively using LLMs in data science workflows, and maintain a healthy technical blog. I speak at conferences, mentor community programs, and regularly contribute to open-source projects and technical writing.
 
+You can explore my [writing](/writings/), [courses](/courses/), [hackathon projects](/hackathons/), or read a fuller [about page](/about/).

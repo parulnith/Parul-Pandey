@@ -1,5 +1,6 @@
 ---
 title: "Hackathons"
+description: "Hackathon projects by Parul Pandey, including Kaggle-winning notebooks, AI reading tools, rural health record digitization, and multimodal learning projects."
 layout: "hackathons"
 hackathons:
   - title: "Geek Girls Rising"

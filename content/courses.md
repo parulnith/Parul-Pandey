@@ -1,5 +1,6 @@
 ---
 title: "Courses"
+description: "Courses by Parul Pandey on AI, machine learning, LLMs, data science workflows, and hands-on development with modern notebook tools."
 ---
 
 Courses I'm creating to help practitioners build with AI and ML.

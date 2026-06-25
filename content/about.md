@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "Learn about Parul Pandey's work in data science, AI education, developer advocacy, responsible AI, Kaggle, technical writing, and community programs."
 ---
 
 Hi, I'm Parul. I combine data science and developer advocacy to make machine learning accessible, responsible, and useful for real teams and communities. I've worked at H2O.ai (Principal Data Scientist) and Weights & Biases (Machine Learning Engineer). I co-authored an O'Reilly book titled Machine Learning for High-Risk Applications and regularly contribute to open-source projects and technical writing. I speak at conferences, mentor community programs, and write regularly. For recent project work and hackathon demos, check out the [Hackathons](/hackathons/) page.
