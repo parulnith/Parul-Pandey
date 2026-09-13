@@ -16,7 +16,7 @@ hackathons:
   - title: "Meta Kaggle Hackathon"
     award: "2nd Place"
     award_color: "gold"
-    year: "2026"
+    year: "2025"
     type: "Kaggle"
     event: "Meta Kaggle Hackathon"
     description: "Analyzed user behavior to find signals that drive long-term community growth — what keeps people active, sharing, and contributing. Placed 2nd overall."

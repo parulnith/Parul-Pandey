@@ -23,9 +23,10 @@ sections:
     image: "/images/ethics-section.png"
 ---
 
-Hi, I'm Parul. I started out as a data scientist, but education gradually became the part of the job I enjoy the most. Today, I work across AI education and developer relations, creating technical content, courses, workshops, and hands-on projects while partnering with companies on developer programs, community initiatives, and other DevRel efforts.
+Hi, I'm Parul. I work in AI education and developer relations, creating courses, workshops, and practical projects that help people use AI and machine learning tools.
 
+I created the LinkedIn Learning course [Practical LLMs for Modern Data Science](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpractical-llms-for-modern-data-science%3Ftrk%3Dshare_ent_url%26shareId%3DvmR8qaAKQtiJNxGgbzLEMQ%253D%253D), delivered an [O’Reilly workshop on marimo for AI and ML development](https://www.oreilly.com/live/marimo-for-ai-and-ml-development.html), and am currently working with marimo to create a course on using reactive notebooks for AI and machine learning.
 
-I've worked at H2O.ai as a Principal Data Scientist and at Weights & Biases as a Machine Learning Engineer. I co-authored the O'Reilly book Machine Learning for High-Risk Applications, have delivered workshops through O'Reilly, created a LinkedIn Learning course on effectively using LLMs in data science workflows, and maintain a healthy technical blog. I speak at conferences, mentor community programs, and regularly contribute to open-source projects and technical writing.
+I've previously worked at H2O.ai as a Principal Data Scientist and at Weights & Biases as a Machine Learning Engineer. I also write about data science and developer tools, speak at conferences, and contribute to community programs.
 
 You can explore my [writing](/writings/), [courses](/courses/), [talks](/talks/), [interviews](/interviews/), or [hackathon projects](/hackathons/).
